@@ -1,0 +1,36 @@
+# Plants
+
+## Plant classification
+
+Plants can be classified in more than one way. The method you choose depends on what differences you want to highlight.
+
+One method divides plants into those with vascular tissue and those with non-vascular tissue. Vascular tissue transports water and nutrients up the roots and stems. The diagram below is simplified and does not include all plant groups. As it is based on whether vascular tissue is present, it highlights the evolution of water independence in plants. Non-vascular plants (e.g. mosses) need to live in or near a moist environment. Vascular plants (e.g. ferns and seed-bearing plants), on the other hand, can live in drier environments as they can obtain water through their roots.
+
+
+```{r echo = F}
+
+knitr::include_graphics("figs/plants_vascular_non-vascular.png")
+
+```
+
+
+Dividing plants into spore-bearing and seed-bearing plants focusses on the ways in which plants reproduce. Gymnosperms and angiosperms bear seeds, while all other plants reproduce via spores. Seeds gave plants a better chance of survival.
+
+
+```{r echo = F}
+
+knitr::include_graphics("figs/plants_spore_seed.png")
+
+```
+
+
+(Reference: https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_Introductory_Biology_(CK-12)/09%3A_Plants/9.06%3A_Plant_Classification)
+
+
+Ferns are the class Filicinae.
+
+Gymnosperms are a class and include the orders Conifers, Cycads and Gingko. They produce seeds in cones and do not flower.
+
+Angiosperms are a class and are divided into the sub-classes Monocots (e.g. palms, grasses) and Dicots (e.g. flowering trees, shrubs and climbers) and produce seeds in flowers.
+
+
