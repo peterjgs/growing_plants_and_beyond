@@ -31,6 +31,29 @@ Ferns are the class Filicinae.
 
 Gymnosperms are a class and include the orders Conifers, Cycads and Gingko. They produce seeds in cones and do not flower.
 
-Angiosperms are a class and are divided into the sub-classes Monocots (e.g. palms, grasses) and Dicots (e.g. flowering trees, shrubs and climbers) and produce seeds in flowers.
+Angiosperms are a class and are divided into the sub-classes Monocots (or Liliopsida) (e.g. palms, grasses) and Dicots (or Magnoliopsida) (e.g. flowering trees, shrubs and climbers) and produce seeds in flowers.
+
+Under Kingdom, the next taxonomic rank is division (in botany) and phylum (in zoology).
+
+
+### Suffixes in taxonomic ranks in botany
+
+(See: https://en.wikipedia.org/wiki/Taxonomic_rank)
+
+Division: -ophyta
+
+Class: -opsida
+
+Subclass:  -idae
+
+Order:  -ales
+
+Family:  -aceae
+
+Subfamily:  -oideae
+
+
+
+
 
 
