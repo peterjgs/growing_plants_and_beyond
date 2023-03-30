@@ -9,3 +9,7 @@ A motley collection of plant-related terms
 For NSW central coast plant lists, also see https://www.austplants.com.au/resources/Documents/Central-Coast-Documents/Fact%20Sheets/Coastal%20Plants%20v4%20HM%20and%20v4%20BM.pdf).
 
 **second-line salt tolerant** This refers to plants that can tolerate moderate coastal exposure and that grow best if protected from salt-laden winds.  In exposed positions on the coast, they could be grown behind a protective screen of front-line salt tolerant plants.
+
+**hardwood** Wood or wood products from flowering trees (broad-leaved tree species), such as eucalypts, irrespective of the physical hardness of the wood (https://www.agriculture.gov.au/abares/forestsaustralia/glossary/search?name_1=Hardwood).
+
+**softwood** Wood or wood products from conifers, irrespective of the physical softness of the wood.
