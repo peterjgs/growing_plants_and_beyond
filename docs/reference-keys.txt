@@ -3,3 +3,4 @@ plants
 plant-classification
 suffixes-in-taxonomic-ranks-in-botany
 glossary---plants
+resources
