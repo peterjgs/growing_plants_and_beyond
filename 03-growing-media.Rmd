@@ -2,3 +2,57 @@
 
 A growing medium is a material through which plant roots grow and from which they extract water and nutrients.
 
+## Functions of growing media
+
+- physical support
+    - growing medium must support the plant or cutting but stay porous
+    - large plants need ballast in the medium to hold plant upright
+
+- aeration
+    - plant roots need oxygen so they can convert sugar into energy to grow
+    - this process produces carbon dioxide, which needs to be removed from the root zone to prevent toxic concentrations building up
+    - this gas exchange occurs in the macropores
+    
+- water supply
+    - growing media hold water in the micropores
+    - they need enough porosity to store the required amounts of water
+    - organic material is one of the main components of growing media that absorb and hold water
+    
+- nutrient supply
+    - most nutrients are obtained by a plant through its roots from the potting medium
+    - most nutrients are cations
+    - the potting medium must contain materials which can hold these cations
+    - the capacity of a material to hold cations is *cation exchange capacity* (CEC)
+    - potting media components can vary widely in CEC
+    
+ 
+## Physical properties of growing media
+
+- water-holding capacity
+    - this is the percentage of total pore space that stays filled with water after letting water drain under gravity
+    - a growing medium needs good water holding capacity and good drainage
+    - it has good drainage if it has enough macropores to let water drain away and prevent waterlogging
+    - compaction is important to take into account - if the medium is compacted, the proportion of macropores is reduced and the roots will be deprived of oxygen
+    
+- aeration
+    - the percentage of pore space that is filled with air after excess water has drained away is aeration
+    - oxygen is supplied to and carbon dioxide is removed from the root zone through the macropores
+    - a good growing medium needs a high percentage of macropores
+    
+- porosity
+    - total porosity is the sum of the volume of macropores and the volume of micropores - plants need both adequate macropores and micropores
+    - a medium with mainly larger particles will have higher aeration and lower water-holding capacity than a medium with mainly smaller particles, which will have lower aeration and higher water-holding capacity - neither is probably satisfactory
+    
+    
+    
+## Growing media for particular purposes
+
+### Root cuttings
+
+- a high percentage of macropores (i.e. high aeration) is needed
+    
+    
+    
+
+
+

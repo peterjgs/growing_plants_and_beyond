@@ -2,5 +2,10 @@ soil-mineralogy
 plants
 plant-classification
 suffixes-in-taxonomic-ranks-in-botany
-glossary---plants
+growing-media
+functions-of-growing-media
+physical-properties-of-growing-media
+growing-media-for-particular-purposes
+root-cuttings
 resources
+glossary---plants
