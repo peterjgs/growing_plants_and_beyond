@@ -43,9 +43,53 @@ A growing medium is a material through which plant roots grow and from which the
     - total porosity is the sum of the volume of macropores and the volume of micropores - plants need both adequate macropores and micropores
     - a medium with mainly larger particles will have higher aeration and lower water-holding capacity than a medium with mainly smaller particles, which will have lower aeration and higher water-holding capacity - neither is probably satisfactory
     
+
+## Chemical properties of growing media
     
+- fertility
+    - growing media must supply plants with the necessary mineral nutrients
+    - the fertility level that is maintained in media depends on several factors
+        - some plants grow better at low nutrient levels
+        - low nutrient levels can help prevent damping off during the establishment phase
+        - some beneficial microorganisms require low nutrient levels to become established - e.g. mycorrhizal fungi
+        
+ - pH
+    - pH affects the availability of mineral nutrients to plants
+    - e.g. iron chlorosis, a common nutrient deficiency, is caused by high pH; the availability of P drops at extreme pH as it binds with Fe and Al at low pH and Ca at high pH
     
+- cation exchange capacity (CEC)
+    - CEC is the ability of a material to hold onto cations
+    - CEC reflects the ability of a growing medium to store nutrients and so helps indicate how often fertilising might be needed
+
+
+## Biological properties of growing media
+    
+- growing media components may contain pathogenic bacteria or fungi or weed seeds
+- growing media need to be obtained from suppliers that have carried out necessary treatments on components to ensure media are free of pathogens and seeds
+- vermiculite and perlite are sterile because they are manufactured at high temperatures
+- peat moss from reliable suppliers is free of pathogens
+- well-made compost is free of pathogens because temperatures reached during composting kill most pathogens
+- in the final stages of composting, beneficial microorganisms increase - another benefit of composting!
+
+
+## Components of growing media
+
+- Sphagnum peat moss
+    - this type of peat moss has uniform quality and, because of this, is the only type used but there are sustainability considerations around using it
+    - it is used in limited amounts in germination mixes
+
+(Most of the material above comes from *Tropical Nursery Manual*.)
+
+
 ## Growing media for particular purposes
+
+Qualities of growing media for particular uses are listed below.
+
+### Seed propagation
+
+- sterile
+- high water-holding capacity to maintain moisture around seeds
+
 
 ### Root cuttings
 
