@@ -5,7 +5,14 @@ suffixes-in-taxonomic-ranks-in-botany
 growing-media
 functions-of-growing-media
 physical-properties-of-growing-media
+chemical-properties-of-growing-media
+biological-properties-of-growing-media
+components-of-growing-media
 growing-media-for-particular-purposes
-root-cuttings
+seed-propagation
+cuttings
+transplant-or-potting-on-media
+establishment-media
 resources
+weeds
 glossary---plants

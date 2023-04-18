@@ -85,17 +85,53 @@ A growing medium is a material through which plant roots grow and from which the
 
 Qualities of growing media for particular uses are listed below.
 
+The qualities of growing media must match the growth phase of the plants: seed germination / rooting cuttings, potting up, potting on.
+
+
+
 ### Seed propagation
 
-- sterile
-- high water-holding capacity to maintain moisture around seeds
+- free from pests and disease
+- high water-holding capacity to maintain uniform moisture around seeds
 
 
-### Root cuttings
+### Cuttings
 
-- a high percentage of macropores (i.e. high aeration) is needed
+- free from pests and disease
+- very porous
+    - good drainage, as cuttings are often misted and so the growing medium must not become waterlogged
+    - high aeration or air-filled porosity (i.e. a high percentage of macropores) to encourage root growth
+
+
+
+### Transplant or potting on media
+
+Plants in this growth phase have actively growing roots, shoots and leaves, can support themselves, absorb nutrients and produce their own food.
+
+- free from pests and disease
+- coarser than seed propagation or cuttings media
+- well-aerated and drained (i.e. holding more air (oxygen))
+- good water-holding and nutrient holding capacity to satisfy the needs of actively growing plants (i.e. actively growing roots, shoots and leaves)
+    - initially, water-holding capacity is less than seed raising and tubing up mixes but increases as organic components decompose
+- heavy enough so plants stay upright (i.e. more sand)
+- may contain some fertiliser
+
+N.B. The type of potting mix used for potting on depends on the type of plant, the conditions (e.g. more protected or less protected) it will grow under, season and irrigation method. Potting on mixes can be general or made to suit the needs of particular plants (e.g. orchids, azaleas).
     
     
+### Establishment media
+
+In this growth phase, plants have well-developed root and shoot systems and can support themselves, absorb nutrients and produce and store their own food.
+
+They need to be able to cope with an environment with few climatic controls.
+
+The emphasis here is on keeping the plant healthy and not encouraging it to grow excessively.
+
+- free from pests and disease
+- lower aeration and drainage than other mixes to allow for slower growth rates and less maintenance
+- high water-holding and nutrient-holding capacity (due to less maintenance)
+- ballast (i.e. more sand) for stability
+- for plants remaining in containers for the long-term, the media must resist decomposing - the particles must remain stable to maintain growing conditions; sand can be used to provide the smallest particles
     
 
 

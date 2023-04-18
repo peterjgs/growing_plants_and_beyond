@@ -13,3 +13,9 @@ For NSW central coast plant lists, also see https://www.austplants.com.au/resour
 **hardwood** Wood or wood products from flowering trees (broad-leaved tree species), such as eucalypts, irrespective of the physical hardness of the wood (https://www.agriculture.gov.au/abares/forestsaustralia/glossary/search?name_1=Hardwood).
 
 **softwood** Wood or wood products from conifers, irrespective of the physical softness of the wood.
+
+**potting up** This is moving seedlings or rooted cuttings to their first pot.
+
+**potting on, growing on** This is moving a plant that has outgrown its pot into a larger pot.
+
+
