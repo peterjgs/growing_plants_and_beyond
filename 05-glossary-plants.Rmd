@@ -1,6 +1,10 @@
 # Glossary - Plants
 
-A motley collection of plant-related terms
+*A motley collection of plant-related terms*
+
+**endemic** a plant that is endemic to a particular geographical region has a natural distribution that is confined to that particular geographical region
+
+**native** if a plant is native to a particular area, it occurs naturally in that area but is not confined to that area
 
 **front-line salt tolerant** This refers to plants that can tolerate full coastal exposure and that have foliage that can withstand salt spray and salt-laden winds 
 
@@ -10,9 +14,22 @@ For NSW central coast plant lists, also see https://www.austplants.com.au/resour
 
 **second-line salt tolerant** This refers to plants that can tolerate moderate coastal exposure and that grow best if protected from salt-laden winds.  In exposed positions on the coast, they could be grown behind a protective screen of front-line salt tolerant plants.
 
-**hardwood** Wood or wood products from flowering trees (broad-leaved tree species), such as eucalypts, irrespective of the physical hardness of the wood (https://www.agriculture.gov.au/abares/forestsaustralia/glossary/search?name_1=Hardwood).
+<br>
 
-**softwood** Wood or wood products from conifers, irrespective of the physical softness of the wood.
+**hardwood**
+
+- Wood or wood products from flowering trees (broad-leaved tree species), such as eucalypts, irrespective of the physical hardness of the wood (https://www.agriculture.gov.au/abares/forestsaustralia/glossary/search?name_1=Hardwood).
+- Another (horticultural) definition: Wood that undergoes secondary growth
+
+<br>
+
+**softwood**
+
+- Wood or wood products from conifers, irrespective of the physical softness of the wood.
+
+- Another (horticultural) definition: Wood that does not undergo secondary growth
+
+<br>
 
 **potting up** This is moving seedlings or rooted cuttings to their first pot.
 
