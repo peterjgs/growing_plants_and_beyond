@@ -53,6 +53,12 @@ Family:  -aceae
 Subfamily:  -oideae
 
 
+## Primary and secondary growth
+
+Primary growth results from cell division in the tips of the stem and roots and results in the stems and roots lengthening.
+
+Secondary growth results from cell division in the cambium, producing xylem on the inside and phloem on the outside and so causing the stem to thicken. Secondary growth occurs in dicots and gymnosperms but not usually in monocots. Monocots may have "anomalous secondary growth". Palms, for example, increase their stem diameter by parenchyma cells dividing and enlarging, a process where no secondary xylem or phloem is formed (https://en.wikipedia.org/wiki/Secondary_growth). Parenchyma cells are a type of *ground tissue*, which is tissue that is not on the external surface of plants or part of vascular tissue. It's a type of "filler" tissue in the soft parts of plants (https://en.wikipedia.org/wiki/Ground_tissue). There are different types of anomalous secondary growth in other monocots.
+
 
 
 
