@@ -14,6 +14,9 @@ seed-propagation
 cuttings
 transplant-or-potting-on-media
 establishment-media
-resources
 weeds
+weeding-techniques
+crowning
+resources
+weeds-1
 glossary---plants
