@@ -17,6 +17,8 @@ establishment-media
 weeds
 weeding-techniques
 crowning
+chemistry
+acids-and-bases
 resources
 weeds-1
 glossary---plants
