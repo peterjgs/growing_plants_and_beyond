@@ -1,5 +1,12 @@
 # Resources
 
+## Propagation
+
+### Tissue culture
+
+https://www.youtube.com/watch?v=n9RGZ1jJt6s&t=318s
+
+
 ## Weeds
 
 NSW Department of Primary Industries has lots of useful things. The starting point is:
@@ -7,3 +14,5 @@ NSW Department of Primary Industries has lots of useful things. The starting poi
 https://www.dpi.nsw.gov.au/biosecurity/weeds
 
 The WeedWise section is particularly useful.
+
+
