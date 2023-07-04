@@ -1,4 +1,164 @@
 # Soil mineralogy
 
-Mostly about the mineralogy of the main types of clay: kaolinites, smectites and vermiculites.
+
+Much of what's below comes from: Essington, M. 2004. *Soil and Water Chemistry: An Integrative Approach*, CRC Press, Chapter 2.
+
+<br>
+
+## Introductory ideas
+
+Minerals in soils can be 
+
+- crystalline - these are naturally occurring inorganic compounds with atoms in a 3-D structure that repeats
+
+- amorphous - these are naturally occurring inorganic compounds with no repeating structure
+
+
+The O^2-^ anion is the dominant anion in soil minerals (47% by weight).
+
+The *coordination number* is the number of anions that can be packed around a cation with no overlap. The bigger the cation, the more anions that can fit around it.
+
+The figure below from Essington shows how charges of bonds are counted.
+
+First, a definition: bond strength = cation valence / coordination number.
+
+On the left are silicon tetrahedra, with the Si^4+^ ions in tetrahedral coordination, each surrounded by four O^2-^ ions. The strength of each Si-O bond is +4 / 4 = +1. The tetrahedra are bonded through a shared basal corner O^2-^ ion. The 2- charge on the O ion is exactly balanced by the 1+ charge on each of the two Si ions it's bonded to.
+
+On the right hand side are Al^3+^ ions in octahedral coordination, each surrounded by six OH^-^ ions. The strength of each Al-OH bond is +3 / 6 = +1/2. Consequently, each OH^-^ ion can only be bonded by two Al^3+^ ions. The -2 charge on each O^2-^ ion is exactly balanced by its bond with two Al^3+^ ions and one H^+^ ion.
+
+
+```{r echo = F, out.width = '80%', fig.align = 'center', fig.cap = 'Essington, Fig. 2.5, p. 41'}
+
+knitr::include_graphics("figs/essington_soil_water_chem_fig_2-5.png")
+
+```
+
+
+A *unit cell* of a crystal is the smallest three-dimensional repeating unit of atoms. 
+
+
+The most commonly occurring minerals in soil are the silicates. One class of silicates, the phyllosilicates or clay minerals, has a substantial effect on the physical and chemical properties of soil.
+
+The *primary silicate minerals* formed as liquid magma cooled and make up the bulk of the sand- and silt-sized fractions of soil.
+
+The *secondary silicate minerals*, formed from the weathering of the primary silicates or from precipitation of soluble mineral material, are found mainly in the clay fraction of soil and are responsible for many chemical reactions in soils.
+
+<br>
+
+## Chain silicates
+
+In the figure below, silicon tetrahedra are shwon linked into single chains (top) and double chains (bottom).
+
+Pyroxenes are made up of single chains of silicon tetrahedra linked through basal oxygen atoms. The basic unit is SiO~3~^2-^. How do you get this unit formula? Each Si-O bond has a strength of +4 / 4 = +1. The four O atoms in a single tetrahedron in focus are numbered. O no. 1 is shared with the neighbouring Si atom, so only half of it "belongs to" the tetrahedron in question. O nos. 2 and 3 both belong wholly to the focal tetrahedron. Like O no. 1, only half of O no. 4 is counted. So, there are one Si atom and three O atoms in the basic pyroxene unit, giving SiO~3~^2-^.
+
+Amphiboles are made up of double chains of silicon tetrahedra linked through basal oxygen atoms. The basic unit is Si~4~O~11~^2-^. How so? The Si atoms are numbered 1 to 4. The set of tetrahedra with these Si atoms constitutes the basic repeating unit of the chains. Some of the oxygen atoms in this unit are marked in groups (with A, B and C), while the other six O atoms in the repeating unit are unmarked. Again, each Si-O bond has a strength of +1.
+
+- The six unmarked O atoms in the unit belong wholly to the unit and contribute their full value. Contribution here is 6.
+
+- O atoms marked A are shared with Si atoms in neighbouring tetrahedra, so each contributes half to the basic unit. Contribution here is 2.
+
+- One of the O atoms marked B is shared between Si atoms 1 and 2 (i.e. half with each Si atom), both of which are in the basic unit, so that O atom contributes its full worth. The other O atom marked B is shared in the same way with Si atoms 3 and 4 and also contributes its full worth. Contribution here is 2.
+
+- Oxygen atom C is shared in a similar way to the Bs, so also contributes its full worth. Contribution here is 1.
+
+- Total oxygen "value" is 11.
+
+This gives the basic unit of Si~4~O~11~^2-^.
+
+
+```{r echo = F, out.width = '80%', fig.align = 'center', fig.cap = 'Essington, Fig. 2.10, p. 49'}
+
+knitr::include_graphics("figs/essington_soil_water_chem_fig_2-10.png")
+
+```
+
+
+<br>
+
+## Phyllosilicates
+
+Phyllosilicates are sheet silicates or layer silicates. The basic unit is Si~2~O~5~^2-^. Each individual tetrahedron shares three basal O atoms, as shown below. The result is a sheet structure.
+
+
+```{r echo = F, out.width = '80%', fig.align = 'center', fig.cap = 'Essington, Fig. 2.11, p. 50'}
+
+knitr::include_graphics("figs/essington_soil_water_chem_fig_2-11.png")
+
+```
+
+
+An example of primary phyllosilicate minerals is the micas. They are 2:1 layer silicates - i.e. two silicate tetrahedral sheets sandwiching an octahedral sheet.
+
+The basic unit of the octahedral sheets is three octahedra. If two out of the three positions available in the octahedra for cations are occupied by cations, the sheet is dioctahedral. If all three positions are occupied, the sheet is trioctahedral.
+
+Isomorphous substitution occurs when an atom replaces another atom which has a similar size - e.g. Al^3+^ can replace Si^4+^ in a tetrahedral sheet and Fe^2+^, Fe^3+^ or Mg^2+^ can replace Al^3+^ in octahedral sheets.
+
+If Al^3+^ substitutes for Si^4+^ in a tetrahedral layer in a dioctahedral mica, there will be a charge deficit of -1. This is balanced by K^+^ ions in the interlayer space.
+
+In trioctahedral micas, the three octahedral spaces are occupied by divalent cations (e.g. Mg^2+^) to maintain the charge balance. If Al^3+^ substitutes for Si^4+^ in a tetrahedral layer in a trioctahedral mica, there will be a charge deficit of -1. This is balanced by K^+^ ions in the interlayer space, as in the dioctahedral case.
+
+<br>
+
+## Clay mineralogy
+
+Clay minerals or clay material is made up of:
+
+- phyllosilicates, of which there are three types, based on the ratio of tetrahedral to octahedral sheets
+
+  - 1:1
+  
+  - 2:1
+  
+  - interlayered 1:1, 2:1 and octahedra
+
+- accessory minerals - i.e. metal oxides, hydroxides and oxyhydroxides and organic matter.
+
+
+### 1:1 phyllosilicates
+
+Dioctahedral: kaolinite group
+
+- Kaolinite is probably the most common aluminosilicate mineral in soil. 
+
+- Its 1:1 layers are held together quite tightly by hydrogen bonding. It has low CEC (it has a little isomorphous substitution and also has some edge charge due to protonation and deprotonation).
+
+Trioctahedral: serpentine group
+
+### 2:1 phyllosilicates
+
+These minerals are can be grouped according to layer charge.
+
+The *mica* group, which consists of primary minerals, has a layer charge of about 0.6 to 2, due to isomorphous substitution (note that vermiculite is a secondary mineral derived from mica).
+
+The *smectite* group has a layer charge of up to about 0.6 and includes both dioctahedral and trioctahedral minerals.
+
+- As the layer charge of smectites is fairly low, water molecules and hydrated cations can get between the 2:1 layers.
+
+- The hydrated cations in the interlayer space that satisfy the charge can be displaced and are exchangeable.
+
+The *vermiculite* group has a charge between about 0.6 and 0.9.
+
+- Even though the layer charge is higher than the smectites, water and hydrated cations can still get between the 2:1 layers.
+
+
+### Interlayered 1:1, 2:1 and octahedra
+
+This group includes, for example, the chlorite group, which is interlayered octahedral.
+
+
+## Accessory minerals
+
+These are mainly various oxides of Al, Fe^III^, Mn and Si. 
+
+They are amphoteric - i.e. they can carry positive or negative charge depending on the characteristics of the soil solution.
+
+Gibbsite, Al(OH)~3~, is a ubiquitous metal hydroxide, occurring particularly in highly weathered soils.
+
+Compounds of iron are also very common, with goethite, FeOOH, the most common hydrous iron oxide.
+
+Haematite, an Fe^III^ oxide, Fe~2~O~3~, often occurs with goethite.
+
+
+
+
 

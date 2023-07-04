@@ -1,4 +1,15 @@
+fig:unnamed-chunk-1
+fig:unnamed-chunk-2
+fig:unnamed-chunk-3
 soil-mineralogy
+introductory-ideas
+chain-silicates
+phyllosilicates
+clay-mineralogy
+phyllosilicates-1
+phyllosilicates-2
+interlayered-11-21-and-octahedra
+accessory-minerals
 plants
 plant-classification
 suffixes-in-taxonomic-ranks-in-botany
@@ -20,5 +31,7 @@ crowning
 chemistry
 acids-and-bases
 resources
+propagation
+tissue-culture
 weeds-1
 glossary---plants
