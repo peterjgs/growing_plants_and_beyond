@@ -1,11 +1,11 @@
-# Soil mineralogy
+# Soil
 
 
 Much of what's below comes from: Essington, M. 2004. *Soil and Water Chemistry: An Integrative Approach*, CRC Press, Chapter 2.
 
 <br>
 
-## Introductory ideas
+## Soil mineralogy - introductory ideas
 
 Minerals in soils can be 
 
@@ -246,6 +246,45 @@ The cation (or anion) charge adsorbed gives the *cation exchange capacity* (or C
   - In 2:1 clays, illites, for example, have a low CEC, as a lot of the charge is neutralised by interlayer K^+^, which is non-exchangeable. In vermiculites, however, the interlayer Ca^2+^ and Mg^2+^ are exchangeable and so the CEC is high.
   
 - In sesquioxides, the charge *depends on pH*. Sesquioxides are positively charged up to a pH of 8 and so contribute nothing to CEC. 
+
+<br>
+
+## Soil organic matter
+
+About 20% to 40% of what a plant produces through photosynthesis in a growing season is returned to the soil.
+
+Plant cells are made up mostly of carbohydrates, proteins and fats.
+
+Of the carbohydrates, sugars and starch are decomposed quickly, while celluose is less easily decomposed.
+
+Proteins are quickly decomposed ultimately into amino acids.
+
+Some of the amino acids are used by micro-organisms for growth.
+
+Whether there is any surplus amino-N that is mineralised for plants to use depends on the C:N ratio of the substrate material and the type of micro-organisms.
+
+When the C:N > 25, there is no excess N and all N is immobilised by the micro-organisms.
+
+When C:N < 25, some mineralisation of N is likely.
+
+Lignin, a complex phenolic polymer, makes up 10% to 20% of cereal straw dry matter and 20% to 30% of wood dry matter. It is not easily decomposed. When it is decomposed, monocyclic phenols are formed and these are then used by soil organisms to make humic macro-molecules.
+
+<br>
+
+## Soil organisms
+
+One way of classifying soil organisms is by the method they use to make food:
+
+- *heterotrophs* need C in the form of organic molecules; they include many species of bacteria and all fungi;
+- *autotrophs* include remaining bacteria and most algae; can grow using C from CO~2~, deriving energy from sunlight (i.e. photosynthetic bacteria and algae) or else deriving energy from oxidising inorganic compounds (i.e. chemoautotrophs).
+
+Another way of classifying them is according to their need for molecular O~2~:
+
+- *aerobes* need O~2~ as the terminal electron acceptor in respiration 
+- *facultative anaerobes* normally need O~2~ but can survive in anoxic conditions by using NO~3~^-^ and other inorganic compounds as electron acceptors in respiration 
+- *obligate anaerobes* grow only in oxygen-free environments because oxygen is toxic to them
+
+
 
 
 

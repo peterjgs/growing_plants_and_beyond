@@ -1,8 +1,8 @@
 fig:unnamed-chunk-1
 fig:unnamed-chunk-2
 fig:unnamed-chunk-3
-soil-mineralogy
-introductory-ideas
+soil
+soil-mineralogy---introductory-ideas
 climate
 moisture
 temperature
@@ -18,6 +18,8 @@ phyllosilicates-2
 interlayered-11-21-and-octahedra
 accessory-minerals
 surface-charge---and-cec
+soil-organic-matter
+soil-organisms
 plants
 plant-classification
 suffixes-in-taxonomic-ranks-in-botany
