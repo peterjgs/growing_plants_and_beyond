@@ -45,6 +45,77 @@ The *secondary silicate minerals*, formed from the weathering of the primary sil
 
 <br>
 
+## Climate
+
+### Moisture
+
+In moist or humid climates, water moves downwards, on balance, for most of the year. This leads to leaching of soluble minerals and translocation downwards of clay particles.
+
+
+In arid climates, water moves upwards, on balance, over the year. This leads to salts being brought up the soil profile and closer to the surface.
+
+### Temperature
+
+Temperature affects the rate of mineral weathering and formation and biological processes, such as growth and decomposition.
+
+
+<br>
+
+## Parent material
+
+Rocks are classified as igneous, sedimentary or metamorphic.
+
+
+Notes below are based on:
+https://australian.museum/learn/minerals/shaping-earth/classification-of-igneous-rocks/
+
+### Igneous rocks
+
+- these are formed by the solidification of molten magma in the Earth's crust or on the surface of the Earth's crust
+- they are divided into classes based on grain size and silica content:
+
+  - grain size
+    - volcanic rocks - they solidify close to the Earth's surface and so cool quickly; they have finer grains
+    - plutonic rocks - they solidify deep in the Earth's crust and cool slowly; they have coarse grains
+    
+  - silica content
+    - *acidic* - rocks with more than 63% silica (mostly light-coloured K/Na feldspars and quartz); mainly *instrusive* (i.e. forming within the crust) - e.g. granite
+    - *basic* - rocks with 45% to 55% quartz but high in dark-coloured ferromagnesian minerals (i.e. Fe and Mg) and Ca feldspars; mainly *extrusive* (i.e. forming on Earth's surface from lava) - e.g. basalt
+    
+    
+### Metamorphic rocks
+
+Igneous and sedimentary rocks that are subjected to high temperature and pressure have their mineral composition and structure changed and are transformed into metamorphic rocks. 
+
+Under high temperature and pressure, existing minerals break down and form new minerals. Particular pressure/temperature conditions cause particular *index minerals* to form and these minerals can be used as one classifying feature of metamorphic rocks.
+
+Apart from index minerals, other classifying features are grain size and degree of foliation.
+
+Texture:
+
+- foliated (leaf-like layers) - newly formed minerals align themselves perpendicular to the direction of stress; metamorphic rocks break easily along foliation planes
+- non-foliated, massive or granular - a granular texture develops if a rock's chemical composition is similar to that of a particular mineral (e.g. marble - see below)
+
+As the grade of metamorphism increases (i.e. higher pressure and temperature), crystal size increases and foliation becomes coarser (e.g. in limestone, calcite recrystallises into larger crystals and forms marble).
+
+
+|               | Grain size |           |
+|:--------------|:-----------|:----------|
+| **Foliation** | Fine       |  Coarse   |
+| Poor          | Hornfels   | Marble, quartzite|
+| Good          | Slate      | Gneiss    |
+
+
+### Sedimentary rocks
+
+These are composed of the products of the weathering of igneous and metamorphic rocks and are formed when these products are deposited by wind or water. As more and more sediment layers are laid down, they exert weight on  deeper sediments, which harden and form rock.
+
+Some sedimentary rocks form by precipitation of minerals, such as limestone.
+
+<br>
+
+
+
 ## Chain silicates
 
 In the figure below, silicon tetrahedra are shwon linked into single chains (top) and double chains (bottom).
@@ -156,7 +227,27 @@ Gibbsite, Al(OH)~3~, is a ubiquitous metal hydroxide, occurring particularly in 
 
 Compounds of iron are also very common, with goethite, FeOOH, the most common hydrous iron oxide.
 
+Iron oxides accumulate in highly weathered soils, especially those that form from the weathering of *basic* rocks. All the iron oxides form by precipitation.
+
 Haematite, an Fe^III^ oxide, Fe~2~O~3~, often occurs with goethite.
+
+<br>
+
+## Surface charge - and CEC
+
+Cations (and anions) are adsorbed onto the surfaces of clay minerals and oxides owing to:
+
+- permanent negative charge on clay minerals due to isomorphous substitution
+- the amphoteric properties (i.e. can be negatively or positively charged) of the edges of kaolinite and the oxides and oxyhydroxides of Fe and Al.
+
+The cation (or anion) charge adsorbed gives the *cation exchange capacity* (or CEC) of the mineral. Analogously, there is also the anion exchange capacity (AEC).
+
+- For crystalline 1:1 and 2:1 phyllosilicates, permanent negative charge and so CEC is more important. Note CEC varies quite a lot within mineral groups.
+  - In 2:1 clays, illites, for example, have a low CEC, as a lot of the charge is neutralised by interlayer K^+^, which is non-exchangeable. In vermiculites, however, the interlayer Ca^2+^ and Mg^2+^ are exchangeable and so the CEC is high.
+  
+- In sesquioxides, the charge *depends on pH*. Sesquioxides are positively charged up to a pH of 8 and so contribute nothing to CEC. 
+
+
 
 
 

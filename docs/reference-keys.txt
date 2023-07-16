@@ -3,6 +3,13 @@ fig:unnamed-chunk-2
 fig:unnamed-chunk-3
 soil-mineralogy
 introductory-ideas
+climate
+moisture
+temperature
+parent-material
+igneous-rocks
+metamorphic-rocks
+sedimentary-rocks
 chain-silicates
 phyllosilicates
 clay-mineralogy
@@ -10,6 +17,7 @@ phyllosilicates-1
 phyllosilicates-2
 interlayered-11-21-and-octahedra
 accessory-minerals
+surface-charge---and-cec
 plants
 plant-classification
 suffixes-in-taxonomic-ranks-in-botany
