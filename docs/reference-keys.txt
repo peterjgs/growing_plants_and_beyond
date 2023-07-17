@@ -20,6 +20,7 @@ accessory-minerals
 surface-charge---and-cec
 soil-organic-matter
 soil-organisms
+humus
 plants
 plant-classification
 suffixes-in-taxonomic-ranks-in-botany
@@ -44,4 +45,6 @@ resources
 propagation
 tissue-culture
 weeds-1
-glossary---plants
+glossary
+plant-related-terms
+soil-related-terms

@@ -265,7 +265,7 @@ Whether there is any surplus amino-N that is mineralised for plants to use depen
 
 When the C:N > 25, there is no excess N and all N is immobilised by the micro-organisms.
 
-When C:N < 25, some mineralisation of N is likely.
+When C:N < 25, some mineralisation (see glossary) of N is likely.
 
 Lignin, a complex phenolic polymer, makes up 10% to 20% of cereal straw dry matter and 20% to 30% of wood dry matter. It is not easily decomposed. When it is decomposed, monocyclic phenols are formed and these are then used by soil organisms to make humic macro-molecules.
 
@@ -285,6 +285,24 @@ Another way of classifying them is according to their need for molecular O~2~:
 - *obligate anaerobes* grow only in oxygen-free environments because oxygen is toxic to them
 
 
+## Humus
+
+Ageing plant material is invaded by micro-organisms that begin to decompose it. At the same time, biochemical changes occur in that ageing material, breaking down cell membranes. Plant material eventually falls to the ground, is invaded by many soil organisms and decomposition quickens, as shown by increasing CO~2~ production. This leads to:
+
+- immobilisation of elements by micro-organisms (i.e. micro-organisms use elements for growth)
+- mineralisation of elements, making them available for plants
+- synthesis of new compounds that form a dark brown to black shapeless material called *humus*
+
+This process of breaking down litter, releasing mineral nutrients and synthesising new compounds is *humification*.
+
+The biochemical changes that occur in organic matter in the soil during decomposition and humus formation are complex! White (pp. 48-49) mentions some.
+
+Two important features of humus are:
+
+- humification produces organic colloids that have a high CEC
+  - the CEC of soil organic matter depends on pH
+
+**unfinished**
 
 
 

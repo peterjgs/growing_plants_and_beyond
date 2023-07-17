@@ -1,6 +1,9 @@
-# Glossary - Plants
+# Glossary
 
-*A motley collection of plant-related terms*
+
+**There are sections below for plant-related and soil-related terms**
+
+## Plant-related terms
 
 **endemic** a plant that is endemic to a particular geographical region has a natural distribution that is confined to that particular geographical region
 
@@ -49,5 +52,13 @@ For NSW central coast plant lists, also see https://www.austplants.com.au/resour
 
 (https://www.anbg.gov.au/aust-veg/veg-map.html)
 
+<br>
+<br>
 
+## Soil-related terms
+
+
+**colloid** Particles smaller than about 1 $\mu\,\texttt{m}$ are colloids
+
+**mineralisation** When plant material decomposes, elements that were part of organic compounds in the plant material are converted to inorganic forms in a process called *mineralisation*. Some of these elements are used by micro-organisms for growth (*immobilisation* of elements) and what is left over (if anything) is mineralised. For example, N, P and S end up as NH~4~^+^, H~2~PO~4~^-^ and SO~4~^2-^ ions and about half the C is released as CO~2~. 
 
