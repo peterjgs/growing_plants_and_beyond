@@ -300,10 +300,20 @@ The biochemical changes that occur in organic matter in the soil during decompos
 Two important features of humus are:
 
 - humification produces organic colloids that have a high CEC
-  - the CEC of soil organic matter depends on pH
+  - the CEC of soil organic matter depends completely on pH
+    - the most important functional groups containing oxygen are those that dissociate to produce H^+^ ions and are the carboxylic and phenolic groups; carboxylic groups have a p*K* value between 3 and 5 and phenolic groups only release protons if pH > 7 (Note: For an acid, HA + H~2~O $\rightleftharpoons$ H~3~O^+^ + A^-^, *K*~a~ = [H~3~O^+^][A^-^] / [HA] and p*K* = -log~10~*K*; e.g. for acetic acid, CH~3~COOH, *K*~a~ = 1.8 $\times$ 10^-5^ and p*K* = 4.74; for formic acid, HCOOH, *K*~a~ = 1.8 $\times$ 10^-4^ and p*K* = 3.74)
 
-**unfinished**
+- humic compounds can form coordination complexes with metallic cations, producing a *chelate* compound; phenolic groups are involved in this (see figure below).
 
+<br>
+
+```{r echo = F, out.width = "50%", fig.align = "center"}
+
+knitr::include_graphics("figs/chelate.png")
+
+```
+
+<br>
 
 
 
