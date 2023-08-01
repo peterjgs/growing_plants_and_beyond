@@ -50,7 +50,17 @@ For NSW central coast plant lists, also see https://www.austplants.com.au/resour
 
 **tree** a woody plant more than 5 metres tall, usually with a single stem
 
-(https://www.anbg.gov.au/aust-veg/veg-map.html)
+- small tree: 5 - 10 metres tall
+
+- medium tree: 10 - 20 metres tall
+
+- large tree: 20+ metres tall
+
+The above ranges are a bit rough!
+
+(Definition of shrub and tree from: https://www.anbg.gov.au/aust-veg/veg-map.html
+
+Height ranges from: https://www.wa.gov.au/system/files/2020-09/FPC-species-information.pdf)
 
 <br>
 <br>
