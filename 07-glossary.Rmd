@@ -63,6 +63,15 @@ The above ranges are a bit rough!
 Height ranges from: https://www.wa.gov.au/system/files/2020-09/FPC-species-information.pdf)
 
 <br>
+
+**degrees of hairiness** (from PlantNet)
+
+- pubescent: fairly densely covered in short, weak, soft hairs
+
+- tomentose: covered in dense intertwined hairs
+
+
+<br>
 <br>
 
 ## Soil-related terms
