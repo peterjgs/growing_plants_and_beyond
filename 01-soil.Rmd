@@ -1,5 +1,29 @@
 # Soil
 
+## Soil particles
+
+(From Hillel, pp. 61-62)
+
+The main or principal groups of particles in soil are, in order of size, clay, silt and sand:
+
+- clay
+
+  - the colloidal particle fraction
+  - clay has the largest surface area per unit mass and so is the most reactive physically and chemically
+  - clay particles adsorb water, causing soil to expand on wetting and shrink on drying
+  - clay particles are negatively charged and when they're hydrated they form a double layer with exchangeable ions in the soil solution around them
+
+- silt
+
+  - larger surface area per unit mass than sand and often coated with clay, so they may behave physically and chemically a little like clay
+
+- sand
+
+  
+Silt and sand are relatively inert and make up the soil "skeleton". Clay is the "flesh" that supports a lot of the chemical, physical and biological activity in soil.
+
+
+<br>
 
 Much of what's below comes from: Essington, M. 2004. *Soil and Water Chemistry: An Integrative Approach*, CRC Press, Chapter 2.
 
@@ -314,6 +338,36 @@ knitr::include_graphics("figs/chelate.png")
 ```
 
 <br>
+
+## Peds and pores
+
+Notes below are based on White, pp. 72-74; Young and Young, pp 62-63.
+
+*Bulk density* = mass of oven-dry soil / total soil volume
+
+*Volumetric water content* = volume of water / total soil volume
+
+*Air-filled porosity* = volume of soil air / total soil volume
+
+*Field capacity* is water content at a suction of 10 kPa (Australian definition). See below also.
+
+*Permanent wilting point* is water content at a suction of 1,500 kPa.
+
+*Available water capacity* is the nominal amount of soil water that plants can use. The upper limit is the water content at field capacity and the lower limit is the water content at which plants can no longer extract water from the soil, lose turgor and wilt - i.e. permanent wilting point (turgor is the normal rigidity of plant cells caused by the pressure of the cell contents against the cell wall). The plant-available water capacity for a particular planted area or crop is the difference between the volumetric water content at field capacity and that at permanent wilting point (summed through the root zone).
+
+Note the above three values are a little arbitrary!
+
+*Pore space ratio* = volume of pores / total soil volume
+
+Note pore space ratio tells you nothing about the size distribution of the pores.
+
+In a soil with reasonable structure, pores can be classed as *macropores* or *micropores*. 
+
+*Macropores* are the pores between soil aggregrates. They allow water to infiltrate and drain through the soil. Water can drain into and through them under the influence of gravity. Air also enters and moves through the soil in them; they are responsible for soil aeration. When the macropores are drained, the soil is at field capacity.
+
+*Micropores* are the pores inside soil aggregates. They are responsible for the storage of water and solutes. The water in these pores is held onto the soil particles by adhesion and surface tension, so a suction has to be applied to remove it. The water in micropores can be removed by evaporation and can be extracted by plants but does not drain out under the influence of gravity.
+
+With rain or irrigation, water infiltrates and wets the soil. The drainage rate often becomes very small 1 - 2 days after the rain or irrigation stops. The reason is that when most of the macropores have drained, there is a large drop in hydraulic conductivity. The water content at this point is usually taken as field capacity (although in Australia, field capacity is set at a suction of 10 kPa, which is around about this point).
 
 
 

@@ -2,6 +2,7 @@ fig:unnamed-chunk-1
 fig:unnamed-chunk-2
 fig:unnamed-chunk-3
 soil
+soil-particles
 soil-mineralogy---introductory-ideas
 climate
 moisture
@@ -21,6 +22,7 @@ surface-charge---and-cec
 soil-organic-matter
 soil-organisms
 humus
+peds-and-pores
 plants
 plant-classification
 suffixes-in-taxonomic-ranks-in-botany
