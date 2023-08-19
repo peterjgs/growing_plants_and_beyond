@@ -25,7 +25,7 @@ Silt and sand are relatively inert and make up the soil "skeleton". Clay is the 
 
 <br>
 
-Much of what's below comes from: Essington, M. 2004. *Soil and Water Chemistry: An Integrative Approach*, CRC Press, Chapter 2.
+Much of the material on mineralogy below comes from: Essington, M. 2004. *Soil and Water Chemistry: An Integrative Approach*, CRC Press, Chapter 2.
 
 <br>
 
@@ -368,6 +368,64 @@ In a soil with reasonable structure, pores can be classed as *macropores* or *mi
 *Micropores* are the pores inside soil aggregates. They are responsible for the storage of water and solutes. The water in these pores is held onto the soil particles by adhesion and surface tension, so a suction has to be applied to remove it. The water in micropores can be removed by evaporation and can be extracted by plants but does not drain out under the influence of gravity.
 
 With rain or irrigation, water infiltrates and wets the soil. The drainage rate often becomes very small 1 - 2 days after the rain or irrigation stops. The reason is that when most of the macropores have drained, there is a large drop in hydraulic conductivity. The water content at this point is usually taken as field capacity (although in Australia, field capacity is set at a suction of 10 kPa, which is around about this point).
+
+
+## Soil structure and aggregation
+
+Soil with a reasonable amount of clay in it forms *aggregates*:
+
+- *macroaggregates* or *peds* - visible, usually from a few millimetres to a few centimetres in diameter, and are made up of groupings of
+
+- *microaggregates*, which are made up of groupings of the primary particles, clay, silt and sand; bundles of clay particles attach themselves to the larger silt and sand particles or sometimes even surround them; *the fundamental mechanism that gives microaggregates stability is clay particles binding together*
+
+*Roots* contribute to soil structure:
+
+- roots travel around and through aggregates, creating a three-dimensional "mesh" in the soil
+
+- roots exert pressure on aggregates, compressing and separating them
+
+- roots take up water from the soil, causing localised dryness, shrinkage and cracking of soil in the root zone
+
+- roots and root hairs grow and die, promoting microbial activity and this results in "humic cements" being produced
+
+- these cements are often broken down in turn by microbes, so organic matter has to be constantly supplied to the soil to maintain the stability of the aggregates
+
+If the soil surface has no protective cover and is left exposed (e.g. after harvesting annual crops), the topsoil will dry out, resulting in desiccation:
+
+- if it is then cultivated, the dried aggregates can be reduced to dust
+
+- if it rains on the dry aggregates, they may slake
+
+If the soil is cultivated when it is very wet, the churning effect of cultivation causes compaction.
+
+Humus is accululated best and soil aggregates stabilised most effectively under perennial vegetation.
+
+
+*Microbes* contribute to soil structure:
+
+- microbial activity varies over time as does the mix of microbes, which include protozoa (one-celled organisms with a true nucleus containing DNA - eukaryotes), bacteria (one-celled organisms without a true nucleus, where DNA is contained in the cytoplasm - prokaryotes), fungi and actinomycetes (bacteria that can break down more resistant carbon compounds like lignin) 
+
+- bacteria living in the rhizosphere are particularly important
+
+- fungi are also particularly important, as they produce extensive networks of hyphae (or mycelia)
+
+- soil microbes bind aggregates by adsorption, physical entangling the particles and excreting viscous material that acts like a glue
+
+- microbial excretions (organic polymers):
+
+  - can be adsorbed onto clay surfaces
+  
+  - can penetrate between individual clay particles
+  
+  - can form a protective coating around soil aggregates
+  
+  - can dissolve in the soil solution, penetrate aggregates and then precipitate in the aggregate forming an internal cement
+  
+Some inorganic substances can also act like a cement:
+
+-  calcium carbonate and iron and aluminium oxides can contribute a lot to aggregate stability (in soils without much organic matter - e.g. tropical soils - these substances can provide considerable stability)
+
+
 
 
 
