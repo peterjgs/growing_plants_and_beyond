@@ -23,6 +23,11 @@ soil-organic-matter
 soil-organisms
 humus
 peds-and-pores
+soil-structure-and-aggregation
+stability
+slaking
+dispersion
+soil-acidity-and-ph
 plants
 plant-classification
 suffixes-in-taxonomic-ranks-in-botany
@@ -51,4 +56,3 @@ weeds-1
 glossary
 plant-related-terms
 soil-related-terms
-soil-structure-and-aggregation

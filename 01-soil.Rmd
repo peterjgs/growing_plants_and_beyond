@@ -426,6 +426,30 @@ Some inorganic substances can also act like a cement:
 -  calcium carbonate and iron and aluminium oxides can contribute a lot to aggregate stability (in soils without much organic matter - e.g. tropical soils - these substances can provide considerable stability)
 
 
+<br>
+
+## Stability
+
+### Slaking
+
+Putting a ped into water results in the water infiltrating the ped. The infiltrating water will increase the pressure of the air in the pores in the ped. If the air bubbles out and the ped remains intact, it is stable. If the ped breaks up, it has "slaked". This means it does not have enough material to hold it together strongly enough to withstand the increased air pressure.
+
+
+### Dispersion
+
+If the ped, after putting it into water, produces cloudiness in the water, it has "dispersed". This is the result of the clay particles in the ped becoming separated from one another (deflocculation). It shows that the clay layers in the particles were initially bound together by sodium ions. Sodium ions are large ions with a single charge, Na^+^, and are in the clay interlayer spaces. Water molecules can move into the interlayer spaces, attracted by the sodium ions, and hydrate those ions. This increases the space between the clay layers to such an extent that the layers separate and the clay particle disintegrates. This causes the cloudiness around the ped. Such a soil is "sodic".
+
+Calcium ions, Ca^2+^, are smaller and hold the clay layers together more strongly than sodium. Water cannot move into the interlayer space if calcium ions are binding the layers together. Water molecules can only move to the edge of the particles under any attraction by the calcium ions but do  not break the calcium-clay bonds.
+
+Organic matter, iron and aluminium sesquioxides and cations, especially calcium and magnesium, encourage flocculation (i.e. bind clay layers together).
+
+
+## Soil acidity and pH
+
+
+
+
+
 
 
 
