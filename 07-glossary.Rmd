@@ -74,6 +74,16 @@ Height ranges from: https://www.wa.gov.au/system/files/2020-09/FPC-species-infor
 
 - tomentose: covered in dense intertwined hairs
 
+<br>
+
+**leaf shape**
+
+- sinuate: strongly wavy margin with shallowly rounded divisions within the same plane of the leaf blade
+
+- undulate: margin has wavy margin that occur above and below the plane of the leaf
+
+(https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?page=nswfl&glossary=yes&term=undulate&ill=Fig.+8+J)
+
 
 <br>
 <br>
