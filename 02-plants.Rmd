@@ -69,10 +69,8 @@ When talking about the type and life form of a plant, move from left to right th
 |  Lifetime  | Primary/Secondary Growth |            |
 |:----------:|:------------------------:|:----------:|
 | Annual     |            |  Grow, flower, seed and die in one year or less |
-|            |            |             |
 | Perennial  |  Softwood  |  Evergreen  |
 | Perennial  |  Softwood  |  Herbaceous |
-|            |            |             |
 | Perennial  |  Hardwood  |  Trees, shrubs, climbers |
 
 <br>
@@ -104,6 +102,41 @@ When describing the features of a plant, do it in the order below for consistenc
 - scent
 - season
 
+<br>
+
+## Plant tissues
+
+Note: References are from: RAV - Raven et al., *The Biology of Plants*
+
+After the embryo has formed, new plant cells are produced by the **meristems**. Meristems are tissues (i.e. tissues are groups of cells that are similar and perform specific functions) where cells that are undifferentiated undergo cell division by mitosis. 
+
+There are two main types of meristem (RAV, p. 6):
+
+- apical meristem - are at tips of shoots and roots and are involved with extension growth of the plant (i.e. often vertical growth) - this type of growth is primary growth
+
+- lateral meristem - this consists of the vascular cambium and cork cambium, which are involved with increasing the thickness or girth of stems, branches and roots - this type of growth is secondary growth
+
+In both apical and lateral meristems, some cells can repeatedly divide; one of the cells produced stays in the meristem ("initial"), the other eventually becomes a new plant body cell ("derivative) - these two new cells are not different from each other, but take on their roles from their position in the meristem (RAV, p. 453). 
+
+There are three types of primary meristem:
+
+- protoderm - produces the future epidermis, a single layer of cells forming the outermost layer of the stem
+
+- ground meristem - produces the ground tissue (mostly parenchyma cells), which in a stem, surrounds the vascular tissue
+
+- procambium - produces the vascular tissue (i.e. xylem and phloem)
+
+These three tissues are primary meristems because (RAV, p. 454):
+
+- they produce primary tissues
+
+- many of their cells can divide and remain undifferentiated for some time (i.e. they can divide again) before they differentiate into specific types of cell
+
+### Primary growth
+
+See RAV, p. 488
+
+NB Periclinal division and secondary growth, RAV, p. 522
 
 
 

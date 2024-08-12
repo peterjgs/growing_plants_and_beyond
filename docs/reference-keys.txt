@@ -56,3 +56,5 @@ weeds-1
 glossary
 plant-related-terms
 soil-related-terms
+plant-tissues
+primary-growth
