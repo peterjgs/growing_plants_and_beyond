@@ -185,7 +185,7 @@ Secondary phloem and secondary xylem are produced by periclinal divisions of the
 
 ```{r echo = F, out.width = '55%', fig.align = 'center', fig.cap = 'Raven, Fig. 24-4, p. 522'}
 
-knitr::include_graphics("figs/periclinal_anticlinal_rav_fig_24-4.jpg")
+knitr::include_graphics("figs/periclinal_anticlinal_rav_fig_24-4.png")
 
 ```
 Figure 2.1 caption:
@@ -197,7 +197,7 @@ Periclinal and anticlinal divisions of fusiform initials. (a) Periclinal divisio
 
 ```{r echo = F, out.width = '55%', fig.align = 'center', fig.cap = 'Raven, Fig. 24-5, p. 522.'}
 
-knitr::include_graphics("figs/secondary_growth_rav_fig_24-5.jpg")
+knitr::include_graphics("figs/secondary_growth_rav_fig_24-5.png")
 
 ```
 
