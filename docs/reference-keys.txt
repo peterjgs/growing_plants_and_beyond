@@ -33,6 +33,8 @@ plant-classification
 suffixes-in-taxonomic-ranks-in-botany
 primary-and-secondary-growth
 plant-characteristics
+plant-tissues
+primary-growth
 growing-media
 functions-of-growing-media
 physical-properties-of-growing-media
@@ -56,5 +58,3 @@ weeds-1
 glossary
 plant-related-terms
 soil-related-terms
-plant-tissues
-primary-growth
