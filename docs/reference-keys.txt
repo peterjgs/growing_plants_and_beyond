@@ -1,6 +1,8 @@
 fig:unnamed-chunk-1
 fig:unnamed-chunk-2
 fig:unnamed-chunk-3
+fig:unnamed-chunk-7
+fig:unnamed-chunk-8
 soil
 soil-particles
 soil-mineralogy---introductory-ideas
@@ -35,6 +37,9 @@ primary-and-secondary-growth
 plant-characteristics
 plant-tissues
 primary-growth
+xylem
+phloem
+vascular-cambium
 growing-media
 functions-of-growing-media
 physical-properties-of-growing-media
