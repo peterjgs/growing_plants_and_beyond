@@ -63,4 +63,3 @@ weeds-1
 glossary
 plant-related-terms
 soil-related-terms
-fig:unnamed-chunk-4
