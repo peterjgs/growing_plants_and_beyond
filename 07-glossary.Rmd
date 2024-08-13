@@ -21,6 +21,10 @@ For NSW central coast plant lists, also see https://www.austplants.com.au/resour
 
 <br>
 
+**wood**
+
+- Wood is secondary xylem tissue (RAV, pp. 532 & 538).
+
 **hardwood**
 
 - Wood or wood products from flowering trees (broad-leaved tree species), such as eucalypts, irrespective of the physical hardness of the wood (https://www.agriculture.gov.au/abares/forestsaustralia/glossary/search?name_1=Hardwood).
@@ -35,6 +39,14 @@ For NSW central coast plant lists, also see https://www.austplants.com.au/resour
 - Another (horticultural) definition: Wood that does not undergo secondary growth.
 
 - Softwoods are conifers.
+
+**sapwood**
+
+- Wood that still conducts water is sapwood. It usually has a lighter colour than heartwood.
+
+**heartwood**
+
+- Wood that no longer conducts water is heartwood and is darker than sapwood.
 
 <br>
 

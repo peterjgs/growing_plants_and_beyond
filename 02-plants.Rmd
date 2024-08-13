@@ -137,10 +137,6 @@ These three tissues are primary meristems because (RAV, p. 454):
 The shoot develops to a certain stage in the embryo and consists of a *plumule* (the stem), *leaf primordia* (rudimentary leaves) and an *apical meristem*. During germination, new seed leaves develop from the apical meristem and the stem lengthens, forming nodes and internodes, and *bud primordia* form in leaf axils. The growing terminal bud often inhibits the lateral buds from growing - this is *apical dominance*. As the distance between the shoot tip and the lateral buds increases, the terminal bud exerts progressively less influence on the lateral buds and they grow more (RAV, p. 488).
 
 
-
-
-NB Periclinal division and secondary growth, RAV, p. 522
-
 <br>
 
 
@@ -153,7 +149,6 @@ Xylem is the main type of plant tissue that conducts water and minerals in vascu
 There are two types of xylem:
 
 - primary xylem - produced by the inner cells of the procambium (RAV, p. 492)
-
 - secondary xylem - produced by the vascular cambium
 
 During primary growth, primary xylem cells may be stretched, although many are destroyed during elongation.
@@ -169,18 +164,54 @@ Phloem is the main type of plant tissue that transports food. The main types of 
 There are two types of phloem:
 
 - primary phloem - produced by the outer cells of the procambium (RAV, p. 492)
-
 - secondary phloem - produced by the vascular cambium
 
 During primary growth, primary phloem cells are often stretched and destroyed during elongation.
 
 <br>
 
+
+### Secondary growth
+
+
 ### Vascular cambium
+
+See RAV, p. 521-522
 
 The vascular cambium is a single layer of cells between the primary xylem and primary phloem that stays meristematic.
 
 Secondary phloem and secondary xylem are produced by periclinal divisions of the cambial initials and their derivatives.
+
+After periclinal division of vascular cambial initials, those derivatives that are on the inside become xylem cells, while those on the outside become phloem cells.
+
+Xylem and phloem cells produced from fusiform initials have their long axis orientated vertically and make up the *axial system* of secondary vascular tissue.
+
+Cells produced from ray initials are called ray cells and are orientated horizontally. They form the *vascular rays* or *radial system*.
+
+Vascular rays:
+
+- move food from secondary phloem to secondary xylem
+- move water from secondary xylem to secondary phloem
+- store start, protein and lipids
+
+As the vascular cambium produces more and more secondary xylem cells, the width of the xylem cell region increases and the cambium is pushed outwards. The circumference of the vascular cambium increases to allow this by anticlinal division of initials.
+
+
+### Growth rings
+
+See RAV, p. 535
+
+The activity of the vascular cambium changes with the seasons in temperate climatic zones. This produces growth rings in the secondary xylem and secondary phloem. If a growth layer represents growth over one year, it's an *annual ring*. The width of an individual growth ring depends on environmental factors:
+
+- light
+- temperature
+- rainfall
+- available soil water
+- length of growing season
+
+In semi-arid areas, the growth rings of a tree give a very good picture of the relative amount of rain that has fallen.
+
+
 <br>
 
 ```{r echo = F, out.width = '55%', fig.align = 'center', fig.cap = 'Raven, Fig. 24-4, p. 522'}
@@ -190,7 +221,7 @@ knitr::include_graphics("figs/periclinal_anticlinal_rav_fig_24-4.png")
 ```
 Figure 2.1 caption:
 
-Periclinal and anticlinal divisions of fusiform initials. (a) Periclinal divisions are involved in forming secondary phloem and secondary xylem cells and result in the formation of radial rows of cells (see Fig. 24-5 below). When an initial divides periclinally, two cells appear, one behind (or in front of) the other. (b) Anticlinal divisions are involved in the multiplication of fusiform initials. When an initial divides anticlinally, two cells appear side by side.
+Periclinal and anticlinal divisions of fusiform initials (vertically elongated cells). (a) Periclinal divisions are involved in forming secondary phloem and secondary xylem cells and result in the formation of radial rows of cells (see Fig. 24-5 below). When an initial divides periclinally, two cells appear, one behind (or in front of) the other. (b) Anticlinal divisions are involved in the multiplication of fusiform initials. When an initial divides anticlinally, two cells appear side by side.
 
 <br>
 <br>
@@ -203,8 +234,17 @@ knitr::include_graphics("figs/secondary_growth_rav_fig_24-5.png")
 
 Figure 2.2 caption:
 
-Diagram showing the relationship of the vascular cambium to its derivative tissues - secondary xylem and secondary phloem. The darker cells are the more recently derived ones. The vascular cambium is made up of two types of cell - fusiform initials and ray initials - which give rise to the axial and radial systems, respectively, of the secondary vascular tissues. When the cambial initials produce secondary xylem and secondary phloem, they divide periclinally. Following division of an initial, one daughter cell (the initial) remains meristematic, and the other (the derivative of the initial) eventually develops into one or more cells of the vascular tissue. Cells produced toward the inner surface of the vascular cambium become xylem elements and those produced toward the outer surface become phloem elements. The ray initials divide to form vascular rays, which lie at right angles to the derivatives of the fusiform initials. With the production of additional secondary xylem, the vascular cambium and secondary phloem are displaced outwards. The diagrams (left to right) represent successively more mature stages.
+Diagram showing the relationship of the vascular cambium to its derivative tissues - secondary xylem and secondary phloem. The darker cells are the more recently derived ones. The vascular cambium is made up of two types of cell - fusiform initials (vertically elongated cells) and ray initials (horizontally elongated cells) - which give rise to the axial and radial systems, respectively, of the secondary vascular tissues. When the cambial initials produce secondary xylem and secondary phloem, they divide periclinally. Following division of an initial, one daughter cell (the initial) remains meristematic, and the other (the derivative of the initial) eventually develops into one or more cells of the vascular tissue. Cells produced toward the inner surface of the vascular cambium become xylem elements and those produced toward the outer surface become phloem elements. The ray initials divide to form vascular rays, which lie at right angles to the derivatives of the fusiform initials. With the production of additional secondary xylem, the vascular cambium and secondary phloem are displaced outwards. The diagrams (left to right) represent successively more mature stages.
 
-**Include short blurb on pp. 521-522)**
+
+<br>
+
+## Reaction wood
+
+SEe RAV, p. 538
+
+Reaction wood is abnormal wood that develops in trunks or branches that are leaning.
+
+*To be finished*
 
 

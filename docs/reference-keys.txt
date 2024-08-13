@@ -39,7 +39,10 @@ plant-tissues
 primary-growth
 xylem
 phloem
+secondary-growth
 vascular-cambium
+growth-rings
+reaction-wood
 growing-media
 functions-of-growing-media
 physical-properties-of-growing-media

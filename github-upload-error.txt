@@ -1,0 +1,5 @@
+If pushing to Github doesn't work because of an error like this, "RPC failed; HTTP 400 curl 22 The requested URL returned error: 400 send-pack: unexpected disconnect while reading sideband packet", it's probably because too much data is being uploaded. Increase buffer size by running:
+
+git config http.postBuffer 524288000
+
+(See: https://stackoverflow.com/questions/77856025/git-error-rpc-failed-http-400-curl-22-the-requested-url-returned-error-400-se)
