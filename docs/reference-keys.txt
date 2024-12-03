@@ -66,3 +66,9 @@ weeds-1
 glossary
 plant-related-terms
 soil-related-terms
+various-introductory-comments
+acid-sulpahte-soils---a-little-aside
+al-and-soil-acidity
+acid-sulphate-soils---a-little-aside
+soil-acidity---some-more-detail
+liming

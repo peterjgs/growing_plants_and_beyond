@@ -446,6 +446,100 @@ Organic matter, iron and aluminium sesquioxides and cations, especially calcium 
 
 ## Soil acidity and pH
 
+Most of the stuff below comes from Sparks, *Environmental Soil Chemistry*, chapter 9.
+
+### Various introductory comments
+
+Soil acidity affects the availability of:
+
+- nutrients
+  - macronutrients are more available above a pH of about 5.5
+  - micronutrients are more available below a pH of about 6
+- bacteria and actinomycetes like a pH above about 5.5
+- fungi don't really care about pH (4 < pH < 9), as long as it's not extreme
+  
+In most soils, soil acidity is related to H and Al. The latter is more important except when pH < 4.
+
+At low pH, Al, Fe and Mn - and heavy metals - become more soluble and can be toxic to plants. As pH increases, they become less soluble and start to precipitate.
+
+### Acid sulphate soils - a little aside
+
+Acid sulphate soils occur on marine floodplains in temperate and tropical climates. When these floodplains are drained, pyrite in the soil is oxidised and high levels of acidity produced.
+
+FeS~2~ + 15/4 O~2~ + 7/2 H~2~O $\rightarrow$ Fe(OH)~3~ + 2H~2~SO~4~
+
+It's the sulphur that's oxidised here.
+
+
+### Al and soil acidity
+
+Al hydrolyses in an aqueous solution - this reaction is reversible. (Hydrolysis is a reaction where a substance is split or decomposed by water.)
+
+There's a set of reactions "starting" with [Al(H~2~O)~6~]^3+^ and "ending" with  [Al(OH)~4~(H~2~O)~2~]^1-^. The product of each hydrolysis reaction is a monomeric Al ion and H~3~O^+^. At each "step", one molecule of water is deprotonated.
+
+The start is 
+
+[Al(H~2~O)~6~]^3+^ + H~2~O $\rightleftharpoons$ [Al(OH)(H~2~O)~5~]^2+^ + H~3~O^+^
+
+and it just goes on from there.
+
+Two points are noteworthy:
+
+- the amount the pH drops as these reactions occur depends on the concentration of Al in the soil solution;
+- the relative concentrations of the various Al ions depend on the pH of the soil solution:
+  - if pH < 4.7 or pH > 7.5, the concentration of Al^3+^ quickly increases.
+
+If 4.7 < pH < 7.5, the solubility of Al is low and it precipitates as Al(OH)~3~.
+
+Free Al^3+^ might only account for a small proportion of Al in the soil solution. There may be quite a lot bound to fluoride or sulphate ions, humic material or organic acids.
+
+
+As pH increases, the amount of Al^3+^ decreases and various monomeric (one Al atom) and polymeric (more than one Al atom) hydroxy-Al species become more common. These latter species can occur in the interlayers of smectite and vermiculite, in organic complexes and oxyhydroxide coatings on clay particles.
+
+These hydroxy-Al species are non-exchangeable (because they cannot be replaced or extracted by a salt like KCl).
+
+The polymers are large and positive and are more likely to be in interlayer spaces than monomeric species.
+
+If these polymeric species are are arranged around the edge of the interlayer space, they can block other ions reaching exchange sites further into the interlayer space. 
+
+If they are arranged throughout the interlayer space, they act as props, keeping the interlayer space open, and increase ion exchange.
+
+
+### Soil acidity - some (more) detail
+
+The main forms of acidity in mineral soils relate to Al; the two main forms are exchangeable (or *extractable*, since the technique used can affect the result) and nonexchangeable.
+
+Exchangeable acidity is the amount of total CEC due to H^+^, contributing the smaller component) and Al^3+^, the larger component. 
+
+The amount of exchangeable acidity depends on the soil type, and so the amount of CEC due to exchangeable bases (i.e. Ca^2+^, Mg^2+^, K^+^ and Na^+^).
+
+The proportion of exchangeable acidity out of total acidity decreases in this order:
+
+- montmorillonite - it has mostly constant charge sites
+- dioctahedral vermiculites - a substantial amount of their acidity is nonexchangeable and made up of polymeric hydroxy-Al material in the interlayer space and depends on pH
+- kaolin minerals - it has low CEC and variable charge
+
+Al and Fe coatings on clay particles reduce the amount of exchangeable acidity that can be extracted and so reduce the proportion of exchangeable acidity in the total acidity.
+
+### Liming
+
+To neutralise soil acidity, apply lime. The general reaction is:
+
+CaCO~3~ + H~2~O $\rightarrow$ Ca^2+^ + HCO~3~^-^ + OH^-^
+
+The hydroxide reacts with existing H^+^ or H^+^ formed by hydrolysing Al^3+^:
+
+2 Al-soil + 3CaCO~3~ + 3H~2~O $\rightarrow$ 3 Ca-soil + 2Al(OH)~3~ ($\downarrow$) + 3CO~2~
+
+
+
+
+
+
+
+
+
+
 
 
 
