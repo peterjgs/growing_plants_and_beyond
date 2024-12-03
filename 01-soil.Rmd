@@ -532,6 +532,43 @@ The hydroxide reacts with existing H^+^ or H^+^ formed by hydrolysing Al^3+^:
 2 Al-soil + 3CaCO~3~ + 3H~2~O $\rightarrow$ 3 Ca-soil + 2Al(OH)~3~ ($\downarrow$) + 3CO~2~
 
 
+### Acidity and biological processes
+
+See Essington, *Soil and Water Chemistry*, chapter 10.
+
+{p. 482}
+
+Most oxidation reactions produce protons. Most reduction reactions consume protons. **Curious!**
+
+You need to look at the whole redox reaction to see what's happening - oxidation or reduction half-reactions on their own don't show the full picture.
+
+*Example*
+
+Oxidising ammonium can potentially lead to acidification through nitrification:
+
+NH~4~^+^ (aq) + 2O~2~(g) $\rightarrow$ NO~3~^-^(aq) + 2H^+^(aq) + H~2~O(l)
+
+Nitrification will only lead to acidification if the nitrate and base cations are leached from the soil.
+
+If this leaching happens, the protons produced by nitrification will stay in the soil. They will occupy organic exchange sites and also take part in mineral weathering.
+
+The Al dissolved in this weathering will hydrolyse, producing more acidity and also displace base cations from exchange sites.
+
+If the nitrate is not leached, acidification may not occur. This is because, when plants absorb a nutrient anion, they release OH^-^ and HCO~3~^-^, generating alkalinity:
+
+[equivalents anions absorbed] - [equivalents cations absorbed] = [equivalents hydroxide and hydrogen carbonate released]
+
+Similarly, when plant roots absorb cations, acidity is generated:
+
+[equivalents cations absorbed] - [equivalents anions absorbed] = [equivalents protons released]
+
+Plants usually absorb more cations than anions, so, on the whole, more protons are released than hydroxide and hydrogen carbonate. The pH of the rhizosphere can be up to two units lower than the soil solution.
+
+
+
+
+Look at Essington, s. 10.4 (liming etc.)
+
 
 
 
