@@ -3,8 +3,8 @@ fig:unnamed-chunk-2
 fig:unnamed-chunk-3
 fig:unnamed-chunk-5
 fig:unnamed-chunk-6
-fig:unnamed-chunk-9
 fig:unnamed-chunk-10
+fig:unnamed-chunk-11
 soil
 soil-particles
 soil-mineralogy---introductory-ideas
@@ -40,6 +40,7 @@ acidity-and-weathering
 acidity-and-biological-processes
 neutralising-soil-acidity-liming
 plants
+classification-of-living-things
 plant-classification
 suffixes-in-taxonomic-ranks-in-botany
 primary-and-secondary-growth
