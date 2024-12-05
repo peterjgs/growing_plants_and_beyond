@@ -106,17 +106,17 @@ When describing the features of a plant, do it in the order below for consistenc
 
 ## Plant tissues
 
-Note: References are from: RAV - Raven et al., *The Biology of Plants*
+Note: References are from Raven et al., *The Biology of Plants*
 
 After the embryo has formed, new plant cells are produced by the **meristems**. Meristems are tissues (i.e. tissues are groups of cells that are similar and perform specific functions) where cells that are undifferentiated undergo cell division by mitosis. 
 
-There are two main types of meristem (RAV, p. 6):
+There are two main types of meristem (Raven, p. 6):
 
 - apical meristem - are at tips of shoots and roots and are involved with extension growth of the plant (i.e. often vertical growth) - this type of growth is primary growth
 
 - lateral meristem - this consists of the vascular cambium and cork cambium, which are involved with increasing the thickness or girth of stems, branches and roots - this type of growth is secondary growth
 
-In both apical and lateral meristems, some cells can repeatedly divide; one of the cells produced stays in the meristem ("initial"), the other eventually becomes a new plant body cell ("derivative) - these two new cells are not different from each other, but take on their roles from their position in the meristem (RAV, p. 453). 
+In both apical and lateral meristems, some cells can repeatedly divide; one of the cells produced stays in the meristem ("initial"), the other eventually becomes a new plant body cell ("derivative) - these two new cells are not different from each other, but take on their roles from their position in the meristem (Raven, p. 453). 
 
 There are three types of primary meristem:
 
@@ -126,7 +126,7 @@ There are three types of primary meristem:
 
 - procambium - produces the vascular tissue (i.e. xylem and phloem)
 
-These three tissues are primary meristems because (RAV, p. 454):
+These three tissues are primary meristems because (Raven, p. 454):
 
 - they produce primary tissues
 
@@ -134,7 +134,7 @@ These three tissues are primary meristems because (RAV, p. 454):
 
 ### Primary growth
 
-The shoot develops to a certain stage in the embryo and consists of a *plumule* (the stem), *leaf primordia* (rudimentary leaves) and an *apical meristem*. During germination, new seed leaves develop from the apical meristem and the stem lengthens, forming nodes and internodes, and *bud primordia* form in leaf axils. The growing terminal bud often inhibits the lateral buds from growing - this is *apical dominance*. As the distance between the shoot tip and the lateral buds increases, the terminal bud exerts progressively less influence on the lateral buds and they grow more (RAV, p. 488).
+The shoot develops to a certain stage in the embryo and consists of a *plumule* (the stem), *leaf primordia* (rudimentary leaves) and an *apical meristem*. During germination, new seed leaves develop from the apical meristem and the stem lengthens, forming nodes and internodes, and *bud primordia* form in leaf axils. The growing terminal bud often inhibits the lateral buds from growing - this is *apical dominance*. As the distance between the shoot tip and the lateral buds increases, the terminal bud exerts progressively less influence on the lateral buds and they grow more (Raven, p. 488).
 
 
 <br>
@@ -142,13 +142,13 @@ The shoot develops to a certain stage in the embryo and consists of a *plumule* 
 
 ### Xylem
 
-See RAV, p. 453
+See Raven, p. 453
 
 Xylem is the main type of plant tissue that conducts water and minerals in vascular plants. It's made up of two types of cell, tracheids and vessel elements (or vessel members).
 
 There are two types of xylem:
 
-- primary xylem - produced by the inner cells of the procambium (RAV, p. 492)
+- primary xylem - produced by the inner cells of the procambium (Raven, p. 492)
 - secondary xylem - produced by the vascular cambium
 
 During primary growth, primary xylem cells may be stretched, although many are destroyed during elongation.
@@ -157,13 +157,13 @@ During primary growth, primary xylem cells may be stretched, although many are d
 
 ### Phloem
 
-See RAV, p. 453
+See Raven, p. 453
 
 Phloem is the main type of plant tissue that transports food. The main types of phloem cells are sieve cells and sieve-tube members.
 
 There are two types of phloem:
 
-- primary phloem - produced by the outer cells of the procambium (RAV, p. 492)
+- primary phloem - produced by the outer cells of the procambium (Raven, p. 492)
 - secondary phloem - produced by the vascular cambium
 
 During primary growth, primary phloem cells are often stretched and destroyed during elongation.
@@ -176,7 +176,7 @@ During primary growth, primary phloem cells are often stretched and destroyed du
 
 ### Vascular cambium
 
-See RAV, p. 521-522
+See Raven, p. 521-522
 
 The vascular cambium is a single layer of cells between the primary xylem and primary phloem that stays meristematic.
 
@@ -199,7 +199,7 @@ As the vascular cambium produces more and more secondary xylem cells, the width 
 
 ### Growth rings
 
-See RAV, p. 535
+See Raven, p. 535
 
 The activity of the vascular cambium changes with the seasons in temperate climatic zones. This produces growth rings in the secondary xylem and secondary phloem. If a growth layer represents growth over one year, it's an *annual ring*. The width of an individual growth ring depends on environmental factors:
 
@@ -241,7 +241,7 @@ Diagram showing the relationship of the vascular cambium to its derivative tissu
 
 ## Reaction wood
 
-SEe RAV, p. 538
+See Raven, p. 538
 
 Reaction wood is abnormal wood that develops in trunks or branches that are leaning.
 

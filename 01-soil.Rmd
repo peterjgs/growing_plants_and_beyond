@@ -539,7 +539,7 @@ These hydroxy-Al species are non-exchangeable (because they cannot be replaced o
 
 The polymers are large and positive and are more likely to be in interlayer spaces than monomeric species.
 
-If these polymeric species are are arranged around the edge of the interlayer space, they can block other ions reaching exchange sites further into the interlayer space. 
+If these polymeric species are arranged around the edge of the interlayer space, they can block other ions reaching exchange sites further into the interlayer space. 
 
 If they are arranged throughout the interlayer space, they act as props, keeping the interlayer space open, and increase ion exchange.
 
@@ -559,6 +559,27 @@ The proportion of exchangeable acidity out of total acidity decreases in this or
 - kaolin minerals - it has low CEC and variable charge
 
 Al and Fe coatings on clay particles reduce the amount of exchangeable acidity that can be extracted and so reduce the proportion of exchangeable acidity in the total acidity.
+
+
+### Acidity and weathering
+
+Essington, pp. 473ff
+
+Soil acidification is a natural result of weathering.
+
+- During weathering, carbonic and organic acids hydrolyse soil minerals.
+
+- Base cations (Ca^2+^, Mg^2+^, K^+^, Na^+^) and silica become soluble (are "solubilised").
+
+- Other products of weathering, such as soluble Al^3+^ and Fe^3+^, hydrolyse, producing protons in the process and also, on the Al side, mainly AlOH^2+^ and Al(OH)~2~^+^.
+
+- Al species (Al^3+^, AlOH^2+^ and Al(OH)~2~^+^) then displace base cations from the exchange complex.
+
+- In areas where rainfall exceeds evapotranspiration, base cations (Ca^2+^, Mg^2+^, K^+^, Na^+^), which do not hydrolyse to produce protons, are leached from the soil.
+
+- *The fundamental cause of soil acidity is Al species occupying the exchange complex. These Al species are labile (i.e. they can be removed from the exchange complex easily and hydrolysed, producing protons).* 
+
+Many soils across the world, such as soils in the humid tropics and in forests in temperate zones, are acidic.
 
 
 
@@ -706,13 +727,6 @@ Note that there is no net decrease in H^+^ ions.
 
 
 
-
-
-
-Expand on the neutralising processes above:
-
-Mineral weathering (see Essington, p. 473) - e.g. especially, 
-|        Fe^2+^(aq) + 1/4 O~2~(g) + H^+^(aq) $\rightarrow$ Fe^3+^(aq) + 1/2 H~2~O
 
 
 

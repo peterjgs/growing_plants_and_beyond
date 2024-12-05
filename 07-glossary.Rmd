@@ -109,5 +109,7 @@ Height ranges from: https://www.wa.gov.au/system/files/2020-09/FPC-species-infor
 
 **colloid** Particles smaller than about 1 $\mu\,\texttt{m}$ are colloids
 
+**labile** Labile refers to compounds that are easily transformed, particularly by biological activity. For example, labile phosphate is that proportion soil phosphate that can be easily converted into plant-available - or soluble - phosphate. The labile pool of a nutrient is the ions of that nutrient which are held on the exchange complex in the solid phase of the soil and which can replace the same ions in the soil solution, as those soluble ions are lost (e.g. by plant uptake, leaching).
+
 **mineralisation** When plant material decomposes, elements that were part of organic compounds in the plant material are converted to inorganic forms in a process called *mineralisation*. Some of these elements are used by micro-organisms for growth (*immobilisation* of elements) and what is left over (if anything) is mineralised. For example, N, P and S end up as NH~4~^+^, H~2~PO~4~^-^ and SO~4~^2-^ ions and about half the C is released as CO~2~. 
 
