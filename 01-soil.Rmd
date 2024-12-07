@@ -476,7 +476,7 @@ The start is
 and it just goes on from there. See below.
 
 
-```{r echo = F, out.width = '60%', fig.align = 'center', fig.cap = 'Sparks, p. 271. Note: This diagram differs slightly in different books depending on how it was derived.'}
+```{r echo = F, out.width = '70%', fig.align = 'center', fig.cap = 'Sparks, p. 271.'}
 
 knitr::include_graphics("figs/sparks_al_equations_p271.png")
 
@@ -500,7 +500,7 @@ If the base cations are not leached, the acid neutralisation capacity of the soi
 
 
 
-```{r echo = F, out.width = '70%', fig.align = 'center', fig.cap = 'Sparks, Fig. 9.2, p. 272'}
+```{r echo = F, out.width = '70%', fig.align = 'center', fig.cap = 'Sparks, Fig. 9.2, p. 272. Note: This diagram differs slightly in different books depending on how it was derived.'}
 
 knitr::include_graphics("figs/sparks_al_species_plot_fig9-2.png")
 
