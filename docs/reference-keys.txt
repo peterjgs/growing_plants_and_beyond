@@ -3,6 +3,8 @@ fig:unnamed-chunk-2
 fig:unnamed-chunk-3
 fig:unnamed-chunk-5
 fig:unnamed-chunk-6
+fig:unnamed-chunk-10
+fig:unnamed-chunk-11
 soil
 soil-particles
 soil-mineralogy---introductory-ideas
@@ -30,7 +32,7 @@ stability
 slaking
 dispersion
 soil-acidity-and-ph
-various-introductory-comments
+introductory-comments
 al-and-soil-acidity
 soil-acidity---some-more-detail
 acidity-and-weathering
