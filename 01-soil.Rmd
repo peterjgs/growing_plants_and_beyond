@@ -456,39 +456,11 @@ Soil acidity affects the availability of:
   - macronutrients are more available above a pH of about 5.5
   - micronutrients are more available below a pH of about 6
 - bacteria and actinomycetes like a pH above about 5.5
-- fungi don't really care about pH (4 < pH < 9), as long as it's not extreme
+- fungi don't really care about pH, as long as it's not extreme - they're pretty happy in the range, 4 < pH < 9
   
 In most soils, soil acidity is related to H and Al. The latter is more important except when pH < 4.
 
-At low pH, Al, Fe and Mn - and heavy metals - become more soluble and can be toxic to plants. As pH increases, they become less soluble and start to precipitate.
-
-### Acid sulphate soils - a little aside
-
-Acid sulphate soils occur on marine floodplains in temperate and tropical climates. When these floodplains are drained, pyrite in the soil is oxidised and high levels of acidity produced. Disulphide (S~2~^2-^) is oxidised by ferric iron (Fe^3+^) to produce sulphate (SO~4~^2-^), ferrous iron (Fe^2+^) and protons.
-
-This is Sparks' equation (p. 270):
-
-|        FeS~2~ + 15/4 O~2~ + 7/2 H~2~O $\rightarrow$ Fe(OH)~3~ + 2H~2~SO~4~
-
-<br>
-
-Essington gives his version, including the half reactions (p. 446):
-
-|        FeS~2~(s) + 8H~2~O(l) $\rightarrow$ Fe^2+^(aq) + 2SO~4~^2-^(aq) + 16H^+^(aq) + 14e^-^
-|  
-|        14Fe^3+^(aq) + 14e^-^ $\rightarrow$ 14Fe^2+^(aq),
-
-<br>
-
-with the overall reaction
-
-|        FeS~2~(s) + 14Fe^3+^(aq) + 8H~2~O(l) $\rightarrow$ 15Fe^2+^(aq) + 2SO~4~^2-^(aq) + 16H^+^(aq)
-
-<br>
-
-Here, Fe^3+^ is the oxidant and S^2-^ is the reductant.
-
-(*Another aside:* The pyrite structure also occurs in other MX~2~ compounds, where M is a transition metal and X is a member of the oxygen group (O, S, Se and Te).)
+At low pH, Al, Fe and Mn - and other transition metals metals - become more soluble and can be toxic to plants. As pH increases, they become less soluble and start to precipitate.
 
 
 ### Al and soil acidity
@@ -504,21 +476,27 @@ The start is
 and it just goes on from there. See below.
 
 
-```{r echo = F, out.width = '60%', fig.align = 'center', fig.cap = 'Sparks, p. 271'}
+```{r echo = F, out.width = '60%', fig.align = 'center', fig.cap = 'Sparks, p. 271. Note: This diagram differs slightly in different books depending on how it was derived.'}
 
 knitr::include_graphics("figs/sparks_al_equations_p271.png")
 
 ```
 
 
+Some points to notice are:
 
-Two points are noteworthy:
-
-- the amount the pH drops as these reactions occur depends on the concentration of Al in the soil solution;
 - the relative concentrations of the various Al ions depend on the pH of the soil solution:
-  - if pH < 4.7 or pH > 7.5, the concentration of Al^3+^ quickly increases.
+  - if pH < 4.7 or pH > 7.5, the concentration of Al^3+^ quickly increases
+- in slightly acidic to highly acidic conditions, Al(OH)~2~^+^ and Al^3+^ predominate
+- when 5 < pH < 6.5, roughly, Al(OH)~2~^+^ predominates
+- when 5 < pH < 7.5, some Al will precipitate as Al(OH)~3~
+- the amount the pH drops owing to the production of protons as these reactions occur depends on the concentration of Al in the soil solution
 
-If 4.7 < pH < 7.5, the solubility of Al is low and it precipitates as Al(OH)~3~.
+The soil exchange complex accepts Al^3+^ and Al(OH)~2~^+^ in preference to base cations, which are easily displaced by the Al species.
+
+If the base cations are not leached, the acid neutralisation capacity of the soil is increased. However, water percolating through the soil will mobilise the displaced base cations rather than adsorbed Al species, acid neutralisation capacity of the soil will decrease and soil acidity will increase.
+
+
 
 
 
@@ -548,11 +526,11 @@ If they are arranged throughout the interlayer space, they act as props, keeping
 
 The main forms of acidity in mineral soils relate to Al; the two main forms are exchangeable (or *extractable*, since the technique used can affect the result) and nonexchangeable.
 
-Exchangeable acidity is the amount of total CEC due to H^+^, contributing the smaller component) and Al^3+^, the larger component. 
+Exchangeable acidity is the amount of total CEC due to H^+^, which contributes the smaller component, and Al^3+^, the larger component. 
 
 The amount of exchangeable acidity depends on the soil type, and so the amount of CEC due to exchangeable bases (i.e. Ca^2+^, Mg^2+^, K^+^ and Na^+^).
 
-The proportion of exchangeable acidity out of total acidity decreases in this order:
+The proportion of exchangeable acidity out of total acidity in the minerals below decreases in this order:
 
 - montmorillonite - it has mostly constant charge sites
 - dioctahedral vermiculites - a substantial amount of their acidity is nonexchangeable and made up of polymeric hydroxy-Al material in the interlayer space and depends on pH
@@ -725,6 +703,33 @@ Adding the three equations above together gives the overall reaction equation:
 Note that there is no net decrease in H^+^ ions.
 
 
+### Acid sulphate soils - a little aside
+
+Acid sulphate soils occur on marine floodplains in temperate and tropical climates. When these floodplains are drained, pyrite in the soil is oxidised and high levels of acidity produced. Disulphide (S~2~^2-^) is oxidised by ferric iron (Fe^3+^) to produce sulphate (SO~4~^2-^), ferrous iron (Fe^2+^) and protons.
+
+This is Sparks' equation (p. 270):
+
+|        FeS~2~ + 15/4 O~2~ + 7/2 H~2~O $\rightarrow$ Fe(OH)~3~ + 2H~2~SO~4~
+
+<br>
+
+Essington gives his version, including the half reactions (p. 446):
+
+|        FeS~2~(s) + 8H~2~O(l) $\rightarrow$ Fe^2+^(aq) + 2SO~4~^2-^(aq) + 16H^+^(aq) + 14e^-^
+|  
+|        14Fe^3+^(aq) + 14e^-^ $\rightarrow$ 14Fe^2+^(aq),
+
+<br>
+
+with the overall reaction
+
+|        FeS~2~(s) + 14Fe^3+^(aq) + 8H~2~O(l) $\rightarrow$ 15Fe^2+^(aq) + 2SO~4~^2-^(aq) + 16H^+^(aq)
+
+<br>
+
+Here, Fe^3+^ is the oxidant and S^2-^ is the reductant.
+
+(*Another aside:* The pyrite structure also occurs in other MX~2~ compounds, where M is a transition metal and X is a member of the oxygen group (O, S, Se and Te).)
 
 
 

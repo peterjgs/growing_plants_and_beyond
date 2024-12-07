@@ -3,7 +3,7 @@
 
 ## Classification of living things
 
-Cavalier-Smith and colleagues came up with the classification system below in 2015 (doi:10.1371/journal.pone.0119248; my copy: ruggiero cavalier-smith classification organisms 2015.pdf).
+Cavalier-Smith and colleagues came up with the classification system below in 2015 (https://doi.org/10.1371/journal.pone.0119248; my copy: ruggiero cavalier-smith classification organisms 2015.pdf).
 
 This system uses two superkingdoms, Prokaryota and Eukaryota, and seven kingdoms.
 
