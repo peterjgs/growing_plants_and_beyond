@@ -1,0 +1,10 @@
+pH range | Dominant Al species
+pH < 5.0 |   Al^3+^ 
+5.0 < pH < 5.25 |   Al(OH)^2+^
+5.25 < pH < 6.5 |  Al(OH)~2~^+^
+pH = ~6.4 | Al(OH)~2~^+^,  Al(OH)~3~ and  Al(OH)~4~^-^ in equal proportions
+pH > 6.5 |  Al(OH)~4~^-^
+5.0 < pH < 7.5 | Solubility of Al is low and Al precipitates as Al(OH)~3~
+
+
+

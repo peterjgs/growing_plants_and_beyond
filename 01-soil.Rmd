@@ -450,28 +450,28 @@ Most of the stuff below comes from Sparks, *Environmental Soil Chemistry*, chapt
 
 ### Introductory comments
 
-Soil acidity affects the availability of:
+Soil acidity affects:
 
 - nutrients
   - macronutrients are more available above a pH of about 5.5
   - micronutrients are more available below a pH of about 6
-- bacteria and actinomycetes like a pH above about 5.5
-- fungi don't really care about pH, as long as it's not extreme - they're pretty happy in the range, 4 < pH < 9
+- bacteria and actinomycetes - they like a pH above about 5.5
+- fungi - they don't really care about pH, as long as it's not extreme - they're pretty happy in the range, 4 < pH < 9
   
 In most soils, soil acidity is related to H and Al. The latter is more important except when pH < 4.
 
-As pH drops below about 5, Al, Fe and Mn - and other transition metals metals - become more soluble and can be toxic to plants. As pH increases, they become less soluble, start to precipitate and so become unavailable to plants.
+As pH drops below about 5, Al, Fe and Mn - and other transition metals - become more soluble and can be toxic to plants. As pH increases, they become less soluble, start to precipitate and so become unavailable to plants.
 
 
 ### Al and soil acidity
 
 Al hydrolyses in an aqueous solution - this reaction is reversible. (Hydrolysis is a reaction where a substance is split or decomposed by water.)
 
-There's a set of reactions "starting" with [Al(H~2~O)~6~]^3+^ and "ending" with  [Al(OH)~4~(H~2~O)~2~]^1-^. The product of each hydrolysis reaction is a monomeric Al ion and H~3~O^+^. At each "step", one molecule of water is deprotonated.
+There's a series of reactions "starting" with [Al(H~2~O)~6~]^3+^ and "ending" with  [Al(OH)~4~(H~2~O)~2~]^1-^. The product of each hydrolysis reaction is a monomeric Al ion and H~3~O^+^. At each "step", one molecule of water is deprotonated.
 
 The reaction equations and a plot showing the distribution of the Al species relative to the pH are below.
 
-```{r echo = F, out.width = '70%', fig.align = 'center', fig.cap = 'Sparks, p. 271.'}
+```{r echo = F, out.width = '70%', fig.align = 'center', fig.cap = 'Sparks 2003, p. 271.'}
 
 knitr::include_graphics("figs/sparks_al_equations_p271.png")
 
@@ -480,24 +480,36 @@ knitr::include_graphics("figs/sparks_al_equations_p271.png")
 <br>
 
 
-```{r echo = F, out.width = '70%', fig.align = 'center', fig.cap = 'Sparks, Fig. 9.2, p. 272. Note: This diagram differs slightly in different books depending on how it was derived.'}
+```{r echo = F, out.width = '100%', fig.align = 'center', fig.cap = 'Sparks et al. 2024, Fig. 9.8, p. 395. Note: This diagram differs slightly in different books depending on how it was derived.'}
 
-knitr::include_graphics("figs/sparks_al_species_plot_fig9-2.png")
+knitr::include_graphics("figs/sparks_al_species_plot_fig9-8.png")
 
 ```
 
 <br>
 
 
-Some points to notice are:
+Some points to notice in the above plot are noted below and others as a table (Sparks et al. 2024, p. 394):
 
-- the relative concentrations of the various Al ions depend on the pH of the soil solution:
-  - if pH < 5 or pH > 7.5, the concentration of Al^3+^ quickly increases
-  - in slightly acidic to highly acidic conditions, Al(OH)~2~^+^ and Al^3+^ predominate
-  - when pH < 5, roughly, Al^3+^ predominates
-  - when 5 < pH < 6.5, roughly, Al(OH)~2~^+^ predominates
-  - when 5 < pH < 7.5, some Al will precipitate as Al(OH)~3~
+- the relative concentrations of the various monomeric Al ions depend on the pH of the soil solution:
+- if pH < 5 or pH > 7.5, the concentration of Al^3+^ quickly increases
 - the amount the pH drops owing to the production of protons as these reactions occur depends on the concentration of Al in the soil solution
+
+<br>
+
+```{r echo = F}
+
+library(kableExtra)
+phal <- read.table("docs/al_solubility_with_ph.txt", 
+                   header = T, sep="|")
+names(phal) <- c("pH range", "Dominant Al species")
+kableExtra::kbl(phal) %>%
+    kable_styling()
+
+```
+
+
+<br>
 
 The soil exchange complex accepts Al^3+^ and Al(OH)~2~^+^ in preference to base cations, which are easily displaced by the Al species.
 
