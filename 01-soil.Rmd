@@ -743,7 +743,28 @@ Here, Fe^3+^ is the oxidant and S^2-^ is the reductant.
 
 
 
+### Soil acidity - more of a storyline
 
+Summary points below from Charman and Murphy, pp. 224ff
+
+Natural factors affecting soil acidity:
+
+- weathering of parent material
+  - nature of parent material
+  - climate - rainfall, temperature
+- age of soil - younger soils have had less time to develop acidity
+- season - soil pH fluctuates throughout the seasons
+
+Factors influencing soil acidity due to human activities:
+
+- agriculturally induced factors
+  - applying fertilisers, especially ammonium fertilisers
+  - allowing nitrate to leach from the soil
+  - applying organic matter or allowing it to bild up in the soil
+  - removing produce
+  - liming
+ 
+  
 
 
 
