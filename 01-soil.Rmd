@@ -766,6 +766,77 @@ Factors influencing soil acidity due to human activities:
  
   
 
+```{r echo = F, out.width = '70%', fig.align = 'center', fig.cap = 'Factors contributing to soil acidification'}
+
+knitr::include_graphics("figs/soil_acidification_diag.png")
+
+```
+  
+  
+<br>
+
+  
+**Following on from Charman and Murphy's points....**
+
+**See also White pp. 50, sect. 7.2, p. 133, p. 234, p. 172 (leaching)**
+
+### Primary weathering
+
+The Earth's crust is composed of the following main primary minerals^[Sparks & Singh, pp., 51-53]:
+
+- feldspars 50 %
+  - 25 % to 50 % of the Si^4+^ is substituted with Al^3+^ and the charge is balanced with K^+^, Na^+^ and Ca^2+^
+  - the most common weathering product is kaolinite, but you also get smectite, mica and gibbsite
+- quartz 12 %
+- amphiboles 11 % and pyroxenes 5 %
+  - these weather to secondary clay minerals, including chlorite, vermiculite, smectite and Fe oxides
+- micas 5 %
+  - micas are phyllosilicates
+  - muscovite and biotite are the most important two
+  - micas have K^+^ in the interlayer space and weather to release K^+^
+  - weathering produces secondary phyllosilicates, including vermiculite, smectite, kaolinite
+  
+The most important secondary minerals are phyllosilicates and various oxides of Fe, Al and Mn (i.e. oxides, hydroxides and oxyhydroxides)
+
+
+### Weathering processes of primary minerals
+
+See Sparks & Singh, p. 53
+
+Weathering of primary minerals produces secondary minerals, which include many plant nutrients (K, Ca, Mg, Fe, Mn, Na, Si) and some toxic elements (As, Co, Cr, Ni, Pb).
+
+Physical weathering leads to rocks disintegrating.
+
+Chemical weathering causes rocks to decompose. The rate of chemical weathering is affected by:
+
+- structure and composition of minerals
+- specific surface area
+- availability of water
+- temperature
+
+Water, with oxygen and acids, drives chemical weathering through these processes:
+
+1. hydration
+    - absorption of water by minerals - this is reversible (e.g. haematite absorbs water to form goethite: Fe~2~O~3~ + H~2~O $\rightleftharpoons$ 2FeOOH)
+  
+2. carbonation
+    - CO~2~ dissolved in rainwater produces carbonic acid (CO~2~ + H~2~O $\rightleftharpoons$ H~2~CO~3~ $\rightleftharpoons$ H^+^ + HCO~3~^-^), a weak acid that can cause chemical weathering
+    - limestone dissolving in acidic water is classic carbonation 
+  (CaCO~3~ + H~2~CO~3~ $\rightarrow$ Ca^2+^ + 2HCO~3~^-^)
+    - the concentration of CO~2~ in soil is much higher than in air due to microbes and plant roots respiring
+    - acidity from this dissolved CO~2~ drives hydrolysis of primary minerals, the most important weathering process of primary silicates
+  
+3. oxidation
+    - iron in primary minerals is predominantly Fe^2+^
+    - when this iron is exposed to air and water, it oxidises to Fe^3+^
+    - the oxidation of Fe^2+^ in ferromagnesian silicates often starts the chemical weathering of these minerals
+  
+4. hydrolysis
+    - a water molecule breaks chemical bonds in the structure of a primary mineral
+  
+  
+
+
 
 
 

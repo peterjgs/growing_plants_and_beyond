@@ -3,8 +3,9 @@ fig:unnamed-chunk-2
 fig:unnamed-chunk-3
 fig:unnamed-chunk-5
 fig:unnamed-chunk-6
-fig:unnamed-chunk-11
+fig:unnamed-chunk-8
 fig:unnamed-chunk-12
+fig:unnamed-chunk-13
 soil
 soil-particles
 soil-mineralogy---introductory-ideas
@@ -40,6 +41,8 @@ acidity-and-biological-processes
 neutralising-soil-acidity-liming
 acid-sulphate-soils---a-little-aside
 soil-acidity---more-of-a-storyline
+primary-weathering
+weathering-processes-of-primary-minerals
 plants
 classification-of-living-things
 plant-classification
