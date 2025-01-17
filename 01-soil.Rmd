@@ -7,14 +7,12 @@
 The main or principal groups of particles in soil are, in order of size, clay, silt and sand:
 
 - clay
-
   - the colloidal particle fraction
   - clay has the largest surface area per unit mass and so is the most reactive physically and chemically
   - clay particles adsorb water, causing soil to expand on wetting and shrink on drying
   - clay particles are negatively charged and when they're hydrated they form a double layer with exchangeable ions in the soil solution around them
 
 - silt
-
   - larger surface area per unit mass than sand and often coated with clay, so they may behave physically and chemically a little like clay
 
 - sand
@@ -243,6 +241,8 @@ This group includes, for example, the chlorite group, which is interlayered octa
 
 ## Accessory minerals
 
+*Edit this section to remove redundancy*
+
 These are mainly various oxides of Al, Fe^III^, Mn and Si. 
 
 They are amphoteric - i.e. they can carry positive or negative charge depending on the characteristics of the soil solution.
@@ -254,6 +254,10 @@ Compounds of iron are also very common, with goethite, FeOOH, the most common hy
 Iron oxides accumulate in highly weathered soils, especially those that form from the weathering of *basic* rocks. All the iron oxides form by precipitation.
 
 Haematite, an Fe^III^ oxide, Fe~2~O~3~, often occurs with goethite.
+
+Accessory minerals are hydrous and anhydrous oxides, hydroxides and oxyhydroxides of metals, such as Fe^III^, Al, Mn and Si. They are often closely associated with primary and secondary aluminosilicates, from which they are produced by chemical weathering. Some examples are gibbsite Al(OH)~3~, haematite Fe~2~O~3~ ans goethite FeOOH^[Essington, pp. 80-81].
+
+
 
 <br>
 
@@ -444,11 +448,119 @@ Calcium ions, Ca^2+^, are smaller and hold the clay layers together more strongl
 Organic matter, iron and aluminium sesquioxides and cations, especially calcium and magnesium, encourage flocculation (i.e. bind clay layers together).
 
 
+
+## Primary weathering
+
+Primary silicate minerals are the most common minerals in soils. Probably the most important chemical weathering processes - but not the only ones - in soils are the ones that involve primary silicate minerals and their weathering products, namely, secondary silicates and accessory minerals^[Essington, ch. 3].
+
+The Earth's crust is composed of the following main primary minerals^[Sparks & Singh, pp., 51-53]:
+
+- feldspars 50 % (39 % plagioclase feldspars, 12 % K-feldspars)
+  - *An aside*:
+    - the chemical composition of feldspars is very variable
+    - the range of their composition can be represented on a ternary diagram (a triangle) with the three most important feldspar minerals at the vertices: orthoclase (KAlSi~3~O~8~), albite (NaAlSi~3~O~8~) and anorthite (CaAl~2~Si~2~O~8~)
+    - at high temperatures, there is complete solid solution between orthoclase and albite, with K and Na substituting for each other - feldspars in this range are *alkali feldspars*
+    - similarly, there is complete solid solution between albite and anorthite at high temperatures, with a coupled substitution occurring to maintain charge - Na^+^ substitutes for Ca^2+^ *and* Si^4+^ substitutes for Al^3+^ (Na^+^ + Si^4+^ $\rightleftharpoons$ Ca^2+^ + Al^3+^) - feldspars in this range are *plagioclase feldspars*
+    - there is no solid solution between orthoclase and anorthite due to the large difference in size between K^+^ and Ca^2+^
+  - 25 % to 50 % of the Si^4+^ is substituted with Al^3+^ and the charge is balanced with K^+^, Na^+^ and Ca^2+^
+  - the most common weathering product is kaolinite, but you also get smectite, mica and gibbsite
+- quartz 12 %
+- amphiboles 11 % and pyroxenes 5 %
+  - these weather to secondary clay minerals, including chlorite, vermiculite, smectite and Fe oxides
+- micas 5 %
+  - micas are phyllosilicates
+  - muscovite and biotite are the most important two
+  - micas have K^+^ in the interlayer space and weather to release K^+^
+  - weathering produces secondary phyllosilicates, including vermiculite, smectite, kaolinite
+  
+The most important secondary minerals are phyllosilicates and various oxides of Fe, Al and Mn (i.e. oxides, hydroxides and oxyhydroxides)
+
+
+### Weathering processes of primary minerals
+
+See Sparks & Singh, p. 53
+
+Weathering of primary minerals produces secondary minerals, which include many plant nutrients (K, Ca, Mg, Fe, Mn, Na, Si) and some toxic elements (As, Co, Cr, Ni, Pb).
+
+Physical weathering leads to rocks disintegrating.
+
+Chemical weathering causes rocks to decompose. The rate of chemical weathering is affected by:
+
+- structure and composition of minerals
+- specific surface area
+- availability of water
+- temperature
+
+Water, with oxygen and acids, drives chemical weathering through these processes:
+
+1. hydration
+    - absorption of water by minerals - this is reversible (e.g. haematite absorbs water to form goethite: Fe~2~O~3~ + H~2~O $\rightleftharpoons$ 2FeOOH)
+  
+2. carbonation
+    - CO~2~ dissolved in rainwater produces carbonic acid (CO~2~ + H~2~O $\rightleftharpoons$ H~2~CO~3~ $\rightleftharpoons$ H^+^ + HCO~3~^-^), a weak acid that can cause chemical weathering
+    - limestone dissolving in acidic water is classic carbonation 
+  (CaCO~3~ + H~2~CO~3~ $\rightarrow$ Ca^2+^ + 2HCO~3~^-^)
+    - the concentration of CO~2~ in soil is much higher than in air due to microbes and plant roots respiring
+    - acidity from this dissolved CO~2~ drives hydrolysis of primary minerals, the most important weathering process of primary silicates
+  
+3. oxidation
+    - iron in primary minerals is predominantly Fe^2+^
+    - when this iron is exposed to air and water, it oxidises to Fe^3+^
+    - the oxidation of Fe^2+^ in ferromagnesian silicates often starts the chemical weathering of these minerals
+  
+4. hydrolysis
+    - a water molecule breaks chemical bonds in the structure of a primary mineral
+  
+
+
+
+
 ## Soil acidity and pH
 
-Most of the stuff below comes from Sparks, *Environmental Soil Chemistry*, chapter 9.
 
-### Introductory comments
+### Overview and story - Essington
+
+Material below is from Essington, sect. 10.1 and 10.2
+
+Proton activity controls many chemical reactions, so pH is a "master" variable.
+
+pH measures the true activity of protons in solution, not the (negative log of the) molar concentration of protons. It is an *indicator* of soil acidity.
+
+Soils with a pH of less than 5 present environmental and agnonomic problems:
+
+- the availability of macronutrients is reduced
+- microbial activity is reduced
+- levels of soluble Al and Mn are toxic to plants
+- the solubility and so availability of potentially harmful trace elements is high
+
+While human activities can increase soil acidity, soil acidification is a natural part of weathering.
+
+- during weathering, carbonic acid and organic acids are involved in the hydrolysis of soil minerals;
+- in areas where rainfall exceeds evapotranspiration, base cations (Ca^2+^, Mg^2+^, K^+^, Na^+^) and silica become soluble and are leached from the soil
+- other products of weathering, such as Al^3+^ and Fe^3+^, hydrolyse and release protons in the hydrolysis reactions, as well as accessory minerals (e.g. gibbsite (Al(OH)~3~) and goethite ($\alpha$-FeOOH))
+  - the hydrolysis products of Al^3+^ are mainly AlOH^2+^ and Al(OH)~2~^+^
+  - the hydrolysis products of Fe^3+^ are Fe(OH)~2~^+^ (pH < 7.4), Fe(OH)~3~ (7.4 < pH < 8.5) and Fe(OH)~4~^-^ (pH > 8.5)^[Lindsay & Schwab, 1982, The chemistry of iron, https://doi.org/10.1080/01904168209363012]
+
+There are three important processes that increase soil acidity:
+
+- the hydrolysis reactions just described
+- the removal of base cations from exchange sites by Al^3+^, AlOH^2+^ and Al(OH)~2~^+^ 
+- the subsequent leaching of the basic cations, which do not hydrolyze to produce protons
+
+However, the *fundamental cause of soil acidity* is Al species, which are labile (i.e. reactive, unstable) and can undergo hydrolysis and so produce protons, occupying exchange sites
+
+
+Physical processes affect soil acidity:
+
+- the processes that transport acidic and alkaline substances into, out of and throughout the soil profile
+- substances that cause acidity enter the soil via precipitation (rain or snow) - such substances include carbonic acid and (hydrated) protons from industrial emissions (e.g. sulphuric acid from SO~2~ produced by coal-burning electric power stations)
+- precipitation also supplies the water that leaches base cations through the soil profile
+- various dry particles fall onto the soil surface (e.g. N and P fertilisers)
+
+
+<br>
+
+Most of the stuff below comes from Sparks, *Environmental Soil Chemistry*, chapter 9.
 
 Soil acidity affects:
 
@@ -461,6 +573,16 @@ Soil acidity affects:
 In most soils, soil acidity is related to H and Al. The latter is more important except when pH < 4.
 
 As pH drops below about 5, Al, Fe and Mn - and other transition metals - become more soluble and can be toxic to plants. As pH increases, they become less soluble, start to precipitate and so become unavailable to plants.
+
+
+### Buffering
+
+Carbonic acid in soil, produced by microbes oxidising organic matter and from CO~2~ in soil air, could produce an acidic soil solution, if it were the only substance controlling pH. However, there are many other acid-base reactions involving organic functional groups that buffer soil pH. Soil organic matter contains many functional groups that are weak acids (e.g. carboxyl (---COOH), phenolic (aromatic hydrocarbon group---OH) and amino (---NH~2~) groups)^[Essington, p. 480].
+
+
+Generally, primary mineral weathering consumes protons (for example, hydrolysis); secondary mineral precipitation produces protons^[Essington, p. 480].
+
+Most reduction reactions consume protons; most oxidation reactions produce protons^[Essington, p. 482].
 
 
 ### Al and soil acidity
@@ -779,65 +901,6 @@ knitr::include_graphics("figs/soil_acidification_diag.png")
 **Following on from Charman and Murphy's points....**
 
 **See also White pp. 50, sect. 7.2, p. 133, p. 234, p. 172 (leaching)**
-
-### Primary weathering
-
-The Earth's crust is composed of the following main primary minerals^[Sparks & Singh, pp., 51-53]:
-
-- feldspars 50 %
-  - 25 % to 50 % of the Si^4+^ is substituted with Al^3+^ and the charge is balanced with K^+^, Na^+^ and Ca^2+^
-  - the most common weathering product is kaolinite, but you also get smectite, mica and gibbsite
-- quartz 12 %
-- amphiboles 11 % and pyroxenes 5 %
-  - these weather to secondary clay minerals, including chlorite, vermiculite, smectite and Fe oxides
-- micas 5 %
-  - micas are phyllosilicates
-  - muscovite and biotite are the most important two
-  - micas have K^+^ in the interlayer space and weather to release K^+^
-  - weathering produces secondary phyllosilicates, including vermiculite, smectite, kaolinite
-  
-The most important secondary minerals are phyllosilicates and various oxides of Fe, Al and Mn (i.e. oxides, hydroxides and oxyhydroxides)
-
-
-### Weathering processes of primary minerals
-
-See Sparks & Singh, p. 53
-
-Weathering of primary minerals produces secondary minerals, which include many plant nutrients (K, Ca, Mg, Fe, Mn, Na, Si) and some toxic elements (As, Co, Cr, Ni, Pb).
-
-Physical weathering leads to rocks disintegrating.
-
-Chemical weathering causes rocks to decompose. The rate of chemical weathering is affected by:
-
-- structure and composition of minerals
-- specific surface area
-- availability of water
-- temperature
-
-Water, with oxygen and acids, drives chemical weathering through these processes:
-
-1. hydration
-    - absorption of water by minerals - this is reversible (e.g. haematite absorbs water to form goethite: Fe~2~O~3~ + H~2~O $\rightleftharpoons$ 2FeOOH)
-  
-2. carbonation
-    - CO~2~ dissolved in rainwater produces carbonic acid (CO~2~ + H~2~O $\rightleftharpoons$ H~2~CO~3~ $\rightleftharpoons$ H^+^ + HCO~3~^-^), a weak acid that can cause chemical weathering
-    - limestone dissolving in acidic water is classic carbonation 
-  (CaCO~3~ + H~2~CO~3~ $\rightarrow$ Ca^2+^ + 2HCO~3~^-^)
-    - the concentration of CO~2~ in soil is much higher than in air due to microbes and plant roots respiring
-    - acidity from this dissolved CO~2~ drives hydrolysis of primary minerals, the most important weathering process of primary silicates
-  
-3. oxidation
-    - iron in primary minerals is predominantly Fe^2+^
-    - when this iron is exposed to air and water, it oxidises to Fe^3+^
-    - the oxidation of Fe^2+^ in ferromagnesian silicates often starts the chemical weathering of these minerals
-  
-4. hydrolysis
-    - a water molecule breaks chemical bonds in the structure of a primary mineral
-  
-  
-
-
-
 
 
 

@@ -32,8 +32,11 @@ soil-structure-and-aggregation
 stability
 slaking
 dispersion
+primary-weathering
+weathering-processes-of-primary-minerals
 soil-acidity-and-ph
-introductory-comments
+overview-and-story---essington
+buffering
 al-and-soil-acidity
 soil-acidity---some-more-detail
 acidity-and-weathering
@@ -41,8 +44,6 @@ acidity-and-biological-processes
 neutralising-soil-acidity-liming
 acid-sulphate-soils---a-little-aside
 soil-acidity---more-of-a-storyline
-primary-weathering
-weathering-processes-of-primary-minerals
 plants
 classification-of-living-things
 plant-classification
