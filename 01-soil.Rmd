@@ -404,9 +404,7 @@ This group includes, for example, the chlorite group, which is interlayered octa
 
 ### Accessory minerals
 
-*Edit this section to remove redundancy*
-
-These are mainly various oxides of Al, Fe^III^, Mn and Si. 
+Accessory minerals are hydrous and anhydrous oxides, hydroxides and oxyhydroxides of metals, such as Fe^III^, Al, Mn and Si. They are often closely associated with primary and secondary aluminosilicates, from which they are produced by chemical weathering. Some examples are gibbsite Al(OH)~3~, haematite Fe~2~O~3~ and goethite FeOOH^[Essington, pp. 80-81].
 
 They are amphoteric - i.e. they can carry positive or negative charge depending on the characteristics of the soil solution.
 
@@ -417,8 +415,6 @@ Compounds of iron are also very common, with goethite, FeOOH, the most common hy
 Iron oxides accumulate in highly weathered soils, especially those that form from the weathering of *basic* rocks. All the iron oxides form by precipitation.
 
 Haematite, an Fe^III^ oxide, Fe~2~O~3~, often occurs with goethite.
-
-Accessory minerals are hydrous and anhydrous oxides, hydroxides and oxyhydroxides of metals, such as Fe^III^, Al, Mn and Si. They are often closely associated with primary and secondary aluminosilicates, from which they are produced by chemical weathering. Some examples are gibbsite Al(OH)~3~, haematite Fe~2~O~3~ and goethite FeOOH^[Essington, pp. 80-81].
 
 <br>
 
