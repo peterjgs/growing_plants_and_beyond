@@ -266,4 +266,58 @@ Reaction wood is abnormal wood that develops in trunks or branches that are lean
 
 *To be finished*
 
+<br>
+
+## Grasses
+
+Note: The information below comes from Friends of Grasslands, *Grasses: Habits and Habitats* (https://www.fog.org.au/Brochures/grasses_brochure.htm)
+
+One way of classifying types of grassland is by the availability of water, as, for example,
+
+- very moist
+- moist
+- dry
+- very dry
+
+**Very moist grasslands**
+
+- Found along creek lines and rivers
+- Dominated by *Poa larbillardierei* (river tussock)
+- Some forbs occur, e.g. *Asperula conferta* (woodruff), *Arthropodium milleflorum* (vanilla lily), *Coronidium rutidolepis* (pale everlasting daisy), as well as some sedges
+- In *very* wet locations, *Poa larbillardierei* won't occur but *Hemarthria uncinata* (Poaceae - matgrass) and sedges will do well
+
+
+**Moist grasslands**
+
+- *Themeda triandra* is a dominant species, with the inflorescence growing to more than one metre high
+- *Poa sieberiana* is a co-dominant species, along with *Themeda triandra*
+- Other plants occuring include *Arthropodium milleflorum* (vanilla lily), *Burchardia umbellata* (milkmaids), *Cullen microcephalum* (Fabaceae subfam. Faboideae - dusky scurf-pea)
+
+
+**Dry grasslands**
+
+- In drier areas, *Themeda triandra* still dominates but grows shorter and
+- *Poa sieberiana* is replaced by wallaby and other grasses
+- As the inter-tussock space increases and provides more space for other plants to colonise, the variety of forbs increases.
+
+
+**Very dry grasslands**
+
+- As grasslands become drier, *Themeda triandra* is replaced by *Aristida ramosa* (purple wiregrass - grows in woodland on poor soils) and short *Rytidosperma* spp. (short wallaby grass spp.) (Sometimes this replacement is due to the grassland being degraded.)
+
+
+**Other points**
+
+- *Rytidosperma pallidum* (red-anther or silvertop wallaby grass) is often dominant in dense woodland and forest (often on NSW southern tablelands and south coast on acid soils of low fertility)
+
+
+**Degraded grasslands**
+
+- *Austrostipa* spp. (spear grass spp.) and *Rytidosperma* spp. (wallaby grass spp.) are often dominant in grasslands
+- Grasslands may be aptly described as "short stipa", "tall stipa" or "wallaby" grassland. However, there is evidence that these grasslands were once themeda grasslands, with cattle having eaten out (i.e. overgrazed) the more palatable kangaroo grass, which was replaced by the less palatable spear grasses and wallaby grasses.
+    - *Austrostipa bigeniculata* is another common dominant grass in moist grasslands which may have been degraded by overgrazing, mainly on the NSW Southern Tablelands and SW Slopes
+    - *Austrostipa scabra* is a widespread common dominant grass in dry grasslands which may have been degraded by overgrazing.
+
+
+
 
