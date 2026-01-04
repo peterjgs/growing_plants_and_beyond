@@ -535,35 +535,14 @@ The cation (or anion) charge adsorbed gives the *cation exchange capacity* (or C
 
 ## Soil acidity and pH
 
-Proton (H^+^) activity controls many chemical reactions, so pH is a "master" variable.
 
-pH measures the true activity of protons in solution, not the (negative log of the) molar concentration of protons. It is an *indicator* of soil acidity.
-
-
-### Processes that cause soil acidity
-
-Soil acidification is the result of complex physical, chemical and biological processes.
-
-Physical processes
-
-- transport processes that move acidic and alkaline substances into, out of and within the soil profile
-  - substances that produce acid enter the soil in precipitation (i.e. rain and snow), for example,
-    -  carbonic acid
-    -  protons produced in reactions between water and industrial substances (e.g. sulphuric acid from SO~2~ produced by coal-fired power stations, nitric acid from NO~2~ in vehicle exhaust)
-- precipitation also leaches base cations through the soil profile leading to soil acidification
-- particles of inorganic and organic material that falls onto the soil surface (e.g. nitrogen and phosphorus fertilisers)
- 
- 
- 
- 
- 
-- - - - - - - - - - - - - - - - - - 
-
-**Original material on soil acidity is below**
-
-Soil acidity is a natural result of weathering.
+### Overview and story - Essington
 
 Material below is from Essington, sect. 10.1 and 10.2
+
+Proton activity controls many chemical reactions, so pH is a "master" variable.
+
+pH measures the true activity of protons in solution, not the (negative log of the) molar concentration of protons. It is an *indicator* of soil acidity.
 
 Soils with a pH of less than 5 present environmental and agronomic problems:
 
