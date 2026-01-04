@@ -552,7 +552,7 @@ While human activities can increase soil acidity, soil acidification is a natura
 - in areas where rainfall exceeds evapotranspiration, base cations (Ca^2+^, Mg^2+^, K^+^, Na^+^) and silica become soluble and are leached from the soil
 - other products of weathering, such as Al^3+^ and Fe^3+^, hydrolyse and release protons in the hydrolysis reactions, as well as accessory minerals (e.g. gibbsite (Al(OH)~3~) and goethite ($\alpha$-FeOOH))
   - the hydrolysis products of Al^3+^ are mainly AlOH^2+^ and Al(OH)~2~^+^
-  - the hydrolysis products of Fe^3+^ are Fe(OH)~2~^+^ (pH < 7.4), Fe(OH)~3~ (7.4 < pH < 8.5) and Fe(OH)~4~^-^ (pH > 8.5)^[Lindsay & Schwab, 1982, The chemistry of iron, https://doi.org/10.1080/01904168209363012]
+  - the hydrolysis products of Fe^3+^ are Fe(OH)~2~^+^ (pH < 7.4), Fe(OH)~3~ (7.4 < pH < 8.5) and Fe(OH)~4~^-^ (pH > 8.5) (See Lindsay & Schwab 1982 - paper in Soil folder)^[Lindsay & Schwab, 1982, The chemistry of iron, https://doi.org/10.1080/01904168209363012]
 
 There are three important processes that increase soil acidity:
 
