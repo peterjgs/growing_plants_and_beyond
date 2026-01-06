@@ -82,3 +82,8 @@ glossary
 plant-related-terms
 soil-related-terms
 grasses
+fig:unnamed-chunk-7
+processes-that-cause-soil-acidity
+weathering---chemical-processes-producing-soil-acidity
+hydrolysis-reactions---more-detail
+soil-exchange-complex-and-cations

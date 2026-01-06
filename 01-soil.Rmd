@@ -535,96 +535,89 @@ The cation (or anion) charge adsorbed gives the *cation exchange capacity* (or C
 
 ## Soil acidity and pH
 
-Proton (H^+^) activity controls many chemical reactions, so pH is a "master" variable.
-
-pH measures the true activity of protons in solution, not the (negative log of the) molar concentration of protons. It is an *indicator* of soil acidity.
-
-
 ### Processes that cause soil acidity
 
-Soil acidification is the result of complex physical, chemical and biological processes.
+There are many factors and processes that cause soil acidification. Some factors are natural and some are human-induced. These factors operate along with complex physical, chemical and biological processes.
 
-Physical processes
+Some natural factors affecting soil acidity are:
+
+- weathering of parent material
+  - nature of parent material
+    - different parent materials have different capability to neutralise acidity; basalt and alluvium have a high content of basic minerals which weather to produce basic cations (Ca^2+^, Mg^2+^, K^+^, Na^+^); these have high a high capability to neutralise acidity, while weathered sandstone with a 98% quartz (SiO~2~) content has low neutralising capability
+  - climate - temperature and particularly rainfall, which affects the type of vegetation and degree of leaching of minerals
+- age of soil - younger soils have had less time to develop acidity
+- season - soil pH fluctuates throughout the seasons and as the soil moisture level changes
+
+Factors due to human activities influencing soil acidity include:
+
+- agriculturally induced factors
+  - applying fertilisers, especially ammonium fertilisers, which produce H^+^ ions through nitrification (see below)
+  - allowing nitrate to leach from the soil
+  - applying high levels of organic matter or allowing it to build up in the soil; adding organic matter has benefits, such as improving soil structure, but the breakdown of organic matter produces nitrogen, so large amounts of organic matter can release a lot of nitrogen, which can then be leached and lead to acidification
+  - removing produce - grain, pasture and animal products are slightly alkaline, so removing them makes the soil more acidic
+  - liming^[Charman and Murphy, pp. 224-228]
+ 
+The figure below shows some of the major causes of soil acidification.
+
+```{r echo = F, out.width = '70%', fig.align = 'center', fig.cap = 'Factors contributing to soil acidification'}
+
+knitr::include_graphics("figs/soil_acidification_diag.png")
+
+```
+  
+  
+
+**Follow on from Charman and Murphy's points possibly with:**
+
+**White pp. 50, sect. 7.2, p. 133, p. 234, p. 172 (leaching)**
+
+**Note Charman and Murphy, p. 224: Removal of base cations is not the cause of soil acidity but a consequence of soil acidification.**
+
+
+Some of the physical processes influencing in soil acidification are:^[Essington, pp. 473-474]
 
 - transport processes that move acidic and alkaline substances into, out of and within the soil profile
   - substances that produce acid enter the soil in precipitation (i.e. rain and snow), for example,
     -  carbonic acid
     -  protons produced in reactions between water and industrial substances (e.g. sulphuric acid from SO~2~ produced by coal-fired power stations, nitric acid from NO~2~ in vehicle exhaust)
 - precipitation also leaches base cations through the soil profile leading to soil acidification
-- particles of inorganic and organic material that falls onto the soil surface (e.g. nitrogen and phosphorus fertilisers)
+- particles of inorganic and organic material that fall onto the soil surface (e.g. nitrogen and phosphorus fertilisers)
  
+These factors and processes operate and interact in various ways, as described below.
+
  
- 
- 
- 
-- - - - - - - - - - - - - - - - - - 
+### Weathering - chemical processes producing soil acidity
 
-**Original material on soil acidity is below**
+Soil acidification is a natural result of weathering^[Essington, pp. 473ff].
 
-Soil acidity is a natural result of weathering.
+- During weathering, carbonic and organic acids qre involved in the hydrolysis of soil minerals.
 
-Material below is from Essington, sect. 10.1 and 10.2
+- Base cations (Ca^2+^, Mg^2+^, K^+^, Na^+^) and silica become soluble (are "solubilised"). 
 
-Soils with a pH of less than 5 present environmental and agronomic problems:
+- In areas where rainfall exceeds evapotranspiration, base cations (Ca^2+^, Mg^2+^, K^+^, Na^+^), which do *not* hydrolyse to produce protons, are leached from the soil.
 
-- the availability of macronutrients is reduced
-- microbial activity is reduced
-- levels of soluble Al and Mn are toxic to plants
-- the solubility and so availability of potentially harmful trace elements is high
-
-While human activities can increase soil acidity, soil acidification is a natural part of weathering.
-
-- during weathering, carbonic acid and organic acids are involved in the hydrolysis of soil minerals;
-- in areas where rainfall exceeds evapotranspiration, base cations (Ca^2+^, Mg^2+^, K^+^, Na^+^) and silica become soluble and are leached from the soil
-- other products of weathering, such as Al^3+^ and Fe^3+^, hydrolyse and release protons in the hydrolysis reactions, as well as accessory minerals (e.g. gibbsite (Al(OH)~3~) and goethite ($\alpha$-FeOOH))
+- Other products of weathering, such as Al^3+^ and Fe^3+^, hydrolyse and release protons in the hydrolysis reactions, as well as accessory minerals (e.g. gibbsite (Al(OH)~3~) and goethite ($\alpha$-FeOOH))
   - the hydrolysis products of Al^3+^ are mainly AlOH^2+^ and Al(OH)~2~^+^
-  - the hydrolysis products of Fe^3+^ are Fe(OH)~2~^+^ (pH < 7.4), Fe(OH)~3~ (7.4 < pH < 8.5) and Fe(OH)~4~^-^ (pH > 8.5) (See Lindsay & Schwab 1982 - paper in Soil folder)^[Lindsay & Schwab, 1982, The chemistry of iron, https://doi.org/10.1080/01904168209363012]
+  - the hydrolysis products of Fe^3+^ are
+    - Fe(OH)~2~^+^ (pH < 7.4)
+    - Fe(OH)~3~ (7.4 < pH < 8.5) and
+    - Fe(OH)~4~^-^ (pH > 8.5) (See Lindsay & Schwab 1982 - paper in Soil folder)^[Lindsay & Schwab, 1982, The chemistry of iron, https://doi.org/10.1080/01904168209363012]
 
-There are three important processes that increase soil acidity:
+- Al species (Al^3+^, AlOH^2+^ and Al(OH)~2~^+^) then displace base cations from the exchange complex.
 
-- the hydrolysis reactions just described
+There are three important chemical processes that increase soil acidity:
+
+- the hydrolysis reactions involving Al^3+^ and Fe^3+^
 - the removal of base cations from exchange sites by Al^3+^, AlOH^2+^ and Al(OH)~2~^+^ 
-- the subsequent leaching of the basic cations, which do not hydrolyze to produce protons
+- the subsequent leaching of the base cations, which do not hydrolyze to produce protons
 
-However, the *fundamental cause of soil acidity* is Al species, which are labile (i.e. reactive, unstable) and can undergo hydrolysis and so produce protons, occupying exchange sites
+- *The fundamental cause of soil acidity is Al species occupying the exchange complex. These Al species are labile (i.e. they can be removed from the exchange complex easily and hydrolysed, producing protons).* 
 
-
-Physical processes affect soil acidity:
-
-- the processes that transport acidic and alkaline substances into, out of and throughout the soil profile
-- substances that cause acidity enter the soil via precipitation (rain or snow) - such substances include carbonic acid and (hydrated) protons from industrial emissions (e.g. sulphuric acid from SO~2~ produced by coal-burning electric power stations)
-- precipitation also supplies the water that leaches base cations through the soil profile
-- various dry particles fall onto the soil surface (e.g. N and P fertilisers)
-
+Many soils across the world, such as soils in the humid tropics and in forests in temperate zones, are acidic.
 
 <br>
 
-Most of the stuff below comes from Sparks, *Environmental Soil Chemistry*, chapter 9.
-
-Soil acidity affects:
-
-- nutrients
-  - macronutrients are more available above a pH of about 5.5
-  - micronutrients are more available below a pH of about 6
-- bacteria and actinomycetes - they like a pH above about 5.5
-- fungi - they don't really care about pH, as long as it's not extreme - they're pretty happy in the range, 4 < pH < 9
-  
-In most soils, soil acidity is related to H and Al. The latter is more important except when pH < 4.
-
-As pH drops below about 5, Al, Fe and Mn - and other transition metals - become more soluble and can be toxic to plants. As pH increases, they become less soluble, start to precipitate and so become unavailable to plants.
-
-
-### Buffering
-
-Carbonic acid in soil, produced by microbes oxidising organic matter and from CO~2~ in soil air, could produce an acidic soil solution, if it were the only substance controlling pH. However, there are many other acid-base reactions involving organic functional groups that buffer soil pH. Soil organic matter contains many functional groups that are weak acids (e.g. carboxyl (---COOH), phenolic (aromatic hydrocarbon group---OH) and amino (---NH~2~) groups)^[Essington, p. 480].
-
-
-Generally, primary mineral weathering consumes protons (for example, hydrolysis); secondary mineral precipitation produces protons^[Essington, p. 480].
-
-Most reduction reactions consume protons; most oxidation reactions produce protons^[Essington, p. 482].
-
-
-### Al and soil acidity
+### Hydrolysis reactions - more detail
 
 Al hydrolyses in an aqueous solution - this reaction is reversible. (Hydrolysis is a reaction where a substance is split or decomposed by water.)
 
@@ -632,7 +625,7 @@ There's a series of reactions "starting" with [Al(H~2~O)~6~]^3+^ and "ending" wi
 
 The reaction equations and a plot showing the distribution of the Al species relative to the pH are below.
 
-```{r echo = F, out.width = '70%', fig.align = 'center', fig.cap = 'Sparks 2003, p. 271.'}
+```{r echo = F, out.width = '60%', fig.align = 'center', fig.cap = 'Sparks 2003, p. 271.'}
 
 knitr::include_graphics("figs/sparks_al_equations_p271.png")
 
@@ -650,7 +643,7 @@ knitr::include_graphics("figs/sparks_al_species_plot_fig9-8.png")
 <br>
 
 
-Some points to notice in the above plot are noted below and others as a table (Sparks et al. 2024, p. 394):
+Some points to notice in the above plot are noted below and others as a table:^[Sparks et al. 2024, p. 394]
 
 - the relative concentrations of the various monomeric Al ions depend on the pH of the soil solution:
 - if pH < 5 or pH > 7.5, the concentration of Al^3+^ quickly increases
@@ -672,64 +665,97 @@ kableExtra::kbl(phal) %>%
 
 <br>
 
-The soil exchange complex accepts Al^3+^ and Al(OH)~2~^+^ in preference to base cations, which are easily displaced by the Al species.
 
-If the base cations are not leached, the acid neutralisation capacity of the soil is increased. However, water percolating through the soil will mobilise the displaced base cations rather than adsorbed Al species and, as a result, acid neutralisation capacity of the soil will decrease and soil acidity will increase.
+### Soil exchange complex and cations
+
+- In most soils, soil acidity is related to H and Al. The latter is more important, except when pH < 4.
+
+- The main forms of acidity in mineral soils relate to Al; the two main forms are *exchangeable* (or *extractable*, since the technique used can affect the result) and *nonexchangeable*.
+
+- Exchangeable acidity is the amount of total CEC due to H^+^, which contributes the smaller component, and Al^3+^, the larger component, combined. 
+
+- The amount of exchangeable acidity depends on the soil type, and so the amount of CEC due to exchangeable bases (i.e. Ca^2+^, Mg^2+^, K^+^ and Na^+^). This varies with soil type.
+
+- For the minerals below, the proportion of exchangeable acidity out of total acidity decreases in this order:^[Sparks et al. 2024, sect. 9.8.1, p. 401]
+
+  - montmorillonite (a smectite - so 2:1 - dioctahedral mineral) - it has mostly constant charge sites
+  - dioctahedral vermiculites (so 2:1 - usually found in highly weathered soils and is concentrated in the clay fraction)^[Sparks et al. 2024, p. 72] - a substantial amount of their acidity is nonexchangeable and made up of polymeric hydroxy-Al material in the interlayer space and depends on pH (no easily found example of a "dioctahedral vermiculite" mineral)
+  - kaolin (1:1) minerals - have low CEC and variable charge
+
+- Al and Fe coatings on clay particles reduce the amount of exchangeable acidity that can be extracted and so reduce the proportion of exchangeable acidity in the total acidity.
+
+- The different cations mentioned above (i.e. base cations and cations of Al and Fe) are preferentially adsorbed onto or displaced from the soil exchange complex.
+
+- The soil exchange complex accepts Al^3+^ and Al(OH)~2~^+^ in preference to base cations, which are easily displaced by the Al species.
+
+- If the base cations are not leached, the acid neutralisation capacity of the soil is increased.
+
+- However, water percolating through the soil will mobilise and leach out the displaced base cations rather than adsorbed Al species and, as a result, acid neutralisation capacity of the soil will decrease and soil acidity will increase.
+
+- Free Al^3+^ might only account for a small proportion of Al in the soil solution. There may be quite a lot bound to fluoride or sulphate ions, humic material or organic acids.
+
+- As pH increases above about 5, the proportion of Al^3+^ decreases and various monomeric (one Al atom) and polymeric (more than one Al atom) hydroxy-Al species become more common. These latter species can occur in the interlayers of smectite and vermiculite, in organic complexes and oxyhydroxide coatings on clay particles.
+
+- These hydroxy-Al species are non-exchangeable (because they cannot be replaced or extracted by a salt like KCl).
+
+  - The polymers are large and positive and are more likely to be in interlayer spaces than monomeric species.
+
+  - If these polymeric species are arranged around the edge of the interlayer space, they can block other ions reaching exchange sites further into the interlayer space. 
+
+  - If they are arranged throughout the interlayer space, they act as props, keeping the interlayer space open, and increase ion exchange.
+
+
+
+<br>
+ 
+- - - - - - - - - - - - - - - - - - 
+
+**Original material on soil acidity is below**
+
+
+Proton (H^+^) activity controls many chemical reactions, so pH is a "master" variable.
+
+pH measures the true activity of protons in solution, not the (negative log of the) molar concentration of protons. It is an *indicator* of soil acidity.
+
+Soil acidity is a natural result of weathering.
+
+Material below is from Essington, sect. 10.1 and 10.2
+
+Soils with a pH of less than 5 present environmental and agronomic problems:
+
+- the availability of macronutrients is reduced
+- microbial activity is reduced
+- levels of soluble Al and Mn are toxic to plants
+- the solubility and so availability of potentially harmful trace elements is high
+
+While human activities can increase soil acidity, soil acidification is a natural part of weathering.
+
 
 
 <br>
 
-Free Al^3+^ might only account for a small proportion of Al in the soil solution. There may be quite a lot bound to fluoride or sulphate ions, humic material or organic acids.
+Most of the stuff below comes from Sparks, *Environmental Soil Chemistry*, chapter 9.
+
+Soil acidity affects:
+
+- nutrients
+  - macronutrients are more available above a pH of about 5.5
+  - micronutrients are more available below a pH of about 6
+- bacteria and actinomycetes - they like a pH above about 5.5
+- fungi - they don't really care about pH, as long as it's not extreme - they're pretty happy in the range, 4 < pH < 9
+  
+
+As pH drops below about 5, Al, Fe and Mn - and other transition metals - become more soluble and can be toxic to plants. As pH increases, they become less soluble, start to precipitate and so become unavailable to plants.
 
 
-As pH increases above about 5, the proportion of Al^3+^ decreases and various monomeric (one Al atom) and polymeric (more than one Al atom) hydroxy-Al species become more common. These latter species can occur in the interlayers of smectite and vermiculite, in organic complexes and oxyhydroxide coatings on clay particles.
+### Buffering
 
-These hydroxy-Al species are non-exchangeable (because they cannot be replaced or extracted by a salt like KCl).
-
-The polymers are large and positive and are more likely to be in interlayer spaces than monomeric species.
-
-If these polymeric species are arranged around the edge of the interlayer space, they can block other ions reaching exchange sites further into the interlayer space. 
-
-If they are arranged throughout the interlayer space, they act as props, keeping the interlayer space open, and increase ion exchange.
+Carbonic acid in soil, produced by microbes oxidising organic matter and from CO~2~ in soil air, could produce an acidic soil solution, if it were the only substance controlling pH. However, there are many other acid-base reactions involving organic functional groups that buffer soil pH. Soil organic matter contains many functional groups that are weak acids (e.g. carboxyl (---COOH), phenolic (aromatic hydrocarbon group---OH) and amino (---NH~2~) groups)^[Essington, p. 480].
 
 
-### Soil acidity - some more detail
+Generally, primary mineral weathering consumes protons (for example, hydrolysis); secondary mineral precipitation produces protons^[Essington, p. 480].
 
-The main forms of acidity in mineral soils relate to Al; the two main forms are exchangeable (or *extractable*, since the technique used can affect the result) and nonexchangeable.
-
-Exchangeable acidity is the amount of total CEC due to H^+^, which contributes the smaller component, and Al^3+^, the larger component, combined. 
-
-The amount of exchangeable acidity depends on the soil type, and so the amount of CEC due to exchangeable bases (i.e. Ca^2+^, Mg^2+^, K^+^ and Na^+^), which varies with soil type.
-
-For the minerals below, the proportion of exchangeable acidity out of total acidity decreases in this order:
-
-- montmorillonite - it has mostly constant charge sites
-- dioctahedral vermiculites - a substantial amount of their acidity is nonexchangeable and made up of polymeric hydroxy-Al material in the interlayer space and depends on pH
-- kaolin minerals - it has low CEC and variable charge
-
-Al and Fe coatings on clay particles reduce the amount of exchangeable acidity that can be extracted and so reduce the proportion of exchangeable acidity in the total acidity.
-
-
-### Acidity and weathering
-
-Essington, pp. 473ff
-
-Soil acidification is a natural result of weathering.
-
-- During weathering, carbonic and organic acids hydrolyse soil minerals.
-
-- Base cations (Ca^2+^, Mg^2+^, K^+^, Na^+^) and silica become soluble (are "solubilised").
-
-- Other products of weathering, such as soluble Al^3+^ and Fe^3+^, hydrolyse, producing protons in the process and also, on the Al side, mainly AlOH^2+^ and Al(OH)~2~^+^.
-
-- Al species (Al^3+^, AlOH^2+^ and Al(OH)~2~^+^) then displace base cations from the exchange complex.
-
-- In areas where rainfall exceeds evapotranspiration, base cations (Ca^2+^, Mg^2+^, K^+^, Na^+^), which do not hydrolyse to produce protons, are leached from the soil.
-
-- *The fundamental cause of soil acidity is Al species occupying the exchange complex. These Al species are labile (i.e. they can be removed from the exchange complex easily and hydrolysed, producing protons).* 
-
-Many soils across the world, such as soils in the humid tropics and in forests in temperate zones, are acidic.
-
+Most reduction reactions consume protons; most oxidation reactions produce protons^[Essington, p. 482].
 
 
 ### Acidity and biological processes
@@ -903,43 +929,6 @@ Here, Fe^3+^ is the oxidant and S^2-^ is the reductant.
 (*Another aside:* The pyrite structure also occurs in other MX~2~ compounds, where M is a transition metal and X is a member of the oxygen group (O, S, Se and Te).)
 
 
-
-### Soil acidity - more of a storyline
-
-Summary points below from Charman and Murphy, pp. 224ff
-
-Natural factors affecting soil acidity:
-
-- weathering of parent material
-  - nature of parent material
-  - climate - rainfall, temperature
-- age of soil - younger soils have had less time to develop acidity
-- season - soil pH fluctuates throughout the seasons
-
-Factors influencing soil acidity due to human activities:
-
-- agriculturally induced factors
-  - applying fertilisers, especially ammonium fertilisers
-  - allowing nitrate to leach from the soil
-  - applying organic matter or allowing it to build up in the soil
-  - removing produce
-  - liming
- 
-  
-
-```{r echo = F, out.width = '70%', fig.align = 'center', fig.cap = 'Factors contributing to soil acidification'}
-
-knitr::include_graphics("figs/soil_acidification_diag.png")
-
-```
-  
-  
-<br>
-
-  
-**Following on from Charman and Murphy's points....**
-
-**See also White pp. 50, sect. 7.2, p. 133, p. 234, p. 172 (leaching)**
 
 
 
