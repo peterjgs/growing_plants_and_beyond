@@ -537,6 +537,10 @@ The cation (or anion) charge adsorbed gives the *cation exchange capacity* (or C
 
 ### Processes that cause soil acidity
 
+Proton (H^+^) activity controls many chemical reactions, so pH is a "master" variable.
+
+pH measures the true activity of protons in solution, not the (negative log of the) molar concentration of protons. It is an *indicator* of soil acidity.
+
 There are many factors and processes that cause soil acidification. Some factors are natural and some are human-induced. These factors operate along with complex physical, chemical and biological processes.
 
 Some natural factors affecting soil acidity are:
@@ -690,7 +694,15 @@ kableExtra::kbl(phal) %>%
 
 - If the base cations are not leached, the acid neutralisation capacity of the soil is increased.
 
-- However, water percolating through the soil will mobilise and leach out the displaced base cations rather than adsorbed Al species and, as a result, acid neutralisation capacity of the soil will decrease and soil acidity will increase.
+- However, water percolating through the soil will mobilise and leach out the displaced base cations and soluble silica rather than adsorbed Al species and, as a result, acid neutralisation capacity of the soil will decrease and soil acidity will increase.
+
+- An exchange process similar to that on the mineral exchange complex occurs at organic functional groups. Al bound to these groups cannot be easily displaced by base cations, which are then mobilised and leached out. Exchange at organic functional groups can release protons or base cations. Examples:
+
+|        R---COOH^0^ + Al(OH)~2~^+^ $\rightarrow$ R---COO^-^---Al(OH)~2~^+^ + H^+^
+
+or
+
+|        R---[COO]~2~^2-^---Ca^2+^ + 2Al(OH)~2~^+^ $\rightarrow$ 2R---COOAl(OH)~2~^0^ + Ca^2+^
 
 - Free Al^3+^ might only account for a small proportion of Al in the soil solution. There may be quite a lot bound to fluoride or sulphate ions, humic material or organic acids.
 
@@ -707,64 +719,28 @@ kableExtra::kbl(phal) %>%
 
 
 <br>
- 
-- - - - - - - - - - - - - - - - - - 
-
-**Original material on soil acidity is below**
-
-
-Proton (H^+^) activity controls many chemical reactions, so pH is a "master" variable.
-
-pH measures the true activity of protons in solution, not the (negative log of the) molar concentration of protons. It is an *indicator* of soil acidity.
-
-Soil acidity is a natural result of weathering.
-
-Material below is from Essington, sect. 10.1 and 10.2
-
-Soils with a pH of less than 5 present environmental and agronomic problems:
-
-- the availability of macronutrients is reduced
-- microbial activity is reduced
-- levels of soluble Al and Mn are toxic to plants
-- the solubility and so availability of potentially harmful trace elements is high
-
-While human activities can increase soil acidity, soil acidification is a natural part of weathering.
-
-
-
-<br>
-
-Most of the stuff below comes from Sparks, *Environmental Soil Chemistry*, chapter 9.
-
-Soil acidity affects:
-
-- nutrients
-  - macronutrients are more available above a pH of about 5.5
-  - micronutrients are more available below a pH of about 6
-- bacteria and actinomycetes - they like a pH above about 5.5
-- fungi - they don't really care about pH, as long as it's not extreme - they're pretty happy in the range, 4 < pH < 9
-  
-
-As pH drops below about 5, Al, Fe and Mn - and other transition metals - become more soluble and can be toxic to plants. As pH increases, they become less soluble, start to precipitate and so become unavailable to plants.
-
 
 ### Buffering
 
 Carbonic acid in soil, produced by microbes oxidising organic matter and from CO~2~ in soil air, could produce an acidic soil solution, if it were the only substance controlling pH. However, there are many other acid-base reactions involving organic functional groups that buffer soil pH. Soil organic matter contains many functional groups that are weak acids (e.g. carboxyl (---COOH), phenolic (aromatic hydrocarbon group---OH) and amino (---NH~2~) groups)^[Essington, p. 480].
 
 
-Generally, primary mineral weathering consumes protons (for example, hydrolysis); secondary mineral precipitation produces protons^[Essington, p. 480].
+Generally, primary mineral weathering consumes protons (for example, hydrolysis); secondary mineral precipitation produces protons^[Essington, p. 480]. Examples:
+
+- primary mineral weathering - dissolution of K-feldspar - protons consumed
+
+|        KAlSi~3~O~8~(s) + 4H~2~O(l) + 4H^+^(aq) $\rightarrow$ Al^3+^(aq) + K^+^(aq) + 3H~4~SiO~4~^0^(aq)
+
+- secondary mineral precipitation - metal hydrous oxide, gibbsite - protons produced
+
+|        Al^3+^(aq) + 3H~2~O(l)  $\rightarrow$ Al(OH)~3~(s) + 3H^+^(aq)
 
 Most reduction reactions consume protons; most oxidation reactions produce protons^[Essington, p. 482].
 
 
 ### Acidity and biological processes
 
-See Essington, *Soil and Water Chemistry*, chapter 10.
-
-{p. 482}
-
-Most oxidation reactions produce protons. Most reduction reactions consume protons. Curious!
+Most oxidation reactions produce protons. Most reduction reactions consume protons.^[Essington, p. 482]
 
 Systems with lots of electrons are reduced (here hydrogen will be more stable relative to water) and those depleted of electrons are oxidised  (here, oxygen will be more stable relative to water) (Essington, pp. 445 & 447).
 
@@ -796,6 +772,29 @@ Similarly, when plant roots absorb cations, acidity is generated:
 <br>
 
 Plants usually absorb more cations than anions, so, on the whole, more protons are released than hydroxide and hydrogen carbonate. The pH of the rhizosphere can be up to two units lower than the soil solution.
+
+ 
+### Effects of soil acidity
+ 
+While human activities can increase soil acidity, soil acidification is a natural part of weathering and other natural processes.
+
+Soils with a pH of less than 5 present environmental and agronomic problems:
+
+- the availability of macronutrients is reduced
+- microbial activity is reduced
+- levels of soluble Al and Mn are toxic to plants
+- the solubility and so availability of potentially harmful trace elements is high
+
+Soil acidity affects:^[Sparks et al. 2024, ch. 9]
+
+- nutrients
+  - macronutrients are more available above a pH of about 5.5
+  - micronutrients are more available below a pH of about 6
+- bacteria and actinomycetes - they like a pH above about 5.5
+- fungi - they don't really care about pH, as long as it's not extreme - they're pretty happy in the range, 4 < pH < 9
+  
+
+As pH drops below about 5, Al, Fe and Mn - and other transition metals - become more soluble and can be toxic to plants. As pH increases, they become less soluble, start to precipitate and so become unavailable to plants.
 
 
 

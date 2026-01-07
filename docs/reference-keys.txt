@@ -3,7 +3,7 @@ fig:unnamed-chunk-3
 fig:unnamed-chunk-4
 fig:unnamed-chunk-5
 fig:unnamed-chunk-6
-fig:unnamed-chunk-8
+fig:unnamed-chunk-7
 fig:unnamed-chunk-12
 fig:unnamed-chunk-13
 soil
@@ -35,15 +35,15 @@ phyllosilicates-2
 weathering-processes-of-primary-minerals
 surface-charge---and-cec
 soil-acidity-and-ph
-overview-and-story---essington
+processes-that-cause-soil-acidity
+weathering---chemical-processes-producing-soil-acidity
+hydrolysis-reactions---more-detail
+soil-exchange-complex-and-cations
 buffering
-al-and-soil-acidity
-soil-acidity---some-more-detail
-acidity-and-weathering
 acidity-and-biological-processes
+effects-of-soil-acidity
 neutralising-soil-acidity-liming
 acid-sulphate-soils---a-little-aside
-soil-acidity---more-of-a-storyline
 plants
 classification-of-living-things
 plant-classification
@@ -58,6 +58,7 @@ secondary-growth
 vascular-cambium
 growth-rings
 reaction-wood
+grasses
 growing-media
 functions-of-growing-media
 physical-properties-of-growing-media
@@ -81,9 +82,3 @@ weeds-1
 glossary
 plant-related-terms
 soil-related-terms
-grasses
-fig:unnamed-chunk-7
-processes-that-cause-soil-acidity
-weathering---chemical-processes-producing-soil-acidity
-hydrolysis-reactions---more-detail
-soil-exchange-complex-and-cations
